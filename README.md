@@ -23,20 +23,20 @@ This repository contains Old English resources and tools to work with them.
 ## People
 
 ### Luca Brigada Villa
-
-**Contribute to this repository**
-Code, tools and models
-
 University of Bergamo/Pavia
+
 [luca.brigadavilla@unibg.it](mailto:luca.brigadavilla@unibg.it)
 
+#### Contribute to this repository
+Code, tools and models
+
 ### Martina Giarda
-
-**Contribute to this repository**
-Old English annotation, rules for conversion of the annotation
-
 University of Bergamo/Pavia
+
 [martina.giarda@unibg.it](mailto:martina.giarda@unibg.it)
+
+#### Contribute to this repository
+Old English annotation, rules for conversion of the annotation
 
 ## License
 
