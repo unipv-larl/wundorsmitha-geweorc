@@ -10,9 +10,11 @@
 
 </div>
 
-[...]
+The name "Wundorsmiþa geweorc", literally "the works of wondersmiths" is our tribute to the most popular composition in Old English, i.e. Beowulf.
 
-This repository contains Old English resources and tools to work with them.
+This expression is contained in the first SEMIVERSO of line 1681, and refers to the hilt of the sword used by Beowulf to defeat Grendel's mother, saving himself from the perils of the marsh. 
+
+In the same way, this repository aims to be a toolkit no to get mired in the marsh Old English resources.
 
 ## Content of the repo
 
