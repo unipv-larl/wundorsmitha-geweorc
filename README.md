@@ -27,7 +27,7 @@ University of Bergamo/Pavia
 
 [luca.brigadavilla@unibg.it](mailto:luca.brigadavilla@unibg.it)
 
-#### Contribute to this repository
+#### Contribution to this repository
 Code, tools and models
 
 ### Martina Giarda
@@ -35,7 +35,7 @@ University of Bergamo/Pavia
 
 [martina.giarda@unibg.it](mailto:martina.giarda@unibg.it)
 
-#### Contribute to this repository
+#### Contribution to this repository
 Old English annotation, rules for conversion of the annotation
 
 ## License
