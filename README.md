@@ -1,6 +1,6 @@
 <div align="center">
 
-# repo-oe
+# Wundorsmiþa geweorc
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -16,20 +16,30 @@ This repository contains Old English resources and tools to work with them.
 
 ## Content of the repo
 
- * abc
- * cde
- * ...
+ * [Paper projects](paper_projects)
+ 	 * [Using modern languages to parse ancient ones](papers_projects/parsing_oe_modern)
+ * [Tools and models](tools_and_models)
 
 ## People
 
 ### Luca Brigada Villa
 
+**Contribute to this repository**
+Code, tools and models
+
+University of Bergamo/Pavia
+[luca.brigadavilla@unibg.it](mailto:luca.brigadavilla@unibg.it)
+
 ### Martina Giarda
+
+**Contribute to this repository**
+Old English annotation, rules for conversion of the annotation
+
+University of Bergamo/Pavia
+[martina.giarda@unibg.it](mailto:martina.giarda@unibg.it)
 
 ## License
 
 The content of this repository is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![cc-by-nc-sa-image]][cc-by-nc-sa]
-
-
