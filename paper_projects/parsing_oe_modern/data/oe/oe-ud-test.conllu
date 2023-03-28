@@ -1,0 +1,1548 @@
+# sent_id = coadrian,Ad:24.1.57_ID
+# text = Saga me hwilce wihta beoð oðre tid wifkinnes and oþre tid wæpnedkinnes .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	hwilce	hwilc	DET	WADJ^N	Case=Nom|Gender=Fem|Number=Plur	4	det	_	_
+4	wihta	wiht	NOUN	N^N	Case=Nom|Gender=Fem|Number=Plur	8	nsubj	_	_
+5	beoð	beon	AUX	BEPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	cop	_	_
+6	oðre	oþer	ADJ	ADJ^A	Case=Acc|Gender=Fem|Number=Sing	7	amod	_	_
+7	tid	tid	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	8	obl:tmod	_	_
+8	wifkinnes	wifcyn	NOUN	N^G	Case=Gen|Compound=Yes|Gender=Neut|Number=Sing	1	ccomp	_	_
+9	and	and	CCONJ	CONJ	_	12	cc	_	_
+10	oþre	oþer	ADJ	ADJ^A	Case=Acc|Gender=Fem|Number=Sing	11	amod	_	_
+11	tid	tid	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	12	obl:tmod	_	_
+12	wæpnedkinnes	wæpnedcyn	NOUN	N^G	Case=Gen|Compound=Yes|Gender=Neut|Number=Sing	8	conj	_	_
+13	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:24.3.58_ID
+# text = Ic þe secge , Belda se fisc on sæ and Viperus seo næddre and Coruus se fugel , þæt is se hrefen .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	7	punct	_	_
+5	Belda	Belda	PROPN	NR^N	Case=Nom	7	appos	_	_
+6	se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	fisc	fisc	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	3	parataxis:rep	_	_
+8	on	on	ADP	P	_	9	case	_	_
+9	sæ	sæ	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	7	obl:lmod	_	_
+10	and	and	CCONJ	CONJ	_	13	cc	_	_
+11	Viperus	Viperus	PROPN	NR^N	Case=Nom	13	appos	_	_
+12	seo	seo	DET	D^N	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	næddre	næddre	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	_
+14	and	and	CCONJ	CONJ	_	17	cc	_	_
+15	Coruus	Coruus	PROPN	NR^N	Case=Nom	17	appos	_	_
+16	se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	fugel	fugel	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
+18	,	,	PUNCT	,	_	22	punct	_	_
+19	þæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	20	fixed	_	_
+20	is	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	22	cop	_	_
+21	se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	hrefen	hræfn	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	17	acl	_	_
+23	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:25.1.59_ID
+# text = $Saga me for hwam seo sæ si sealt .
+1	$Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	for	for	ADP	P	_	4	fixed	_	_
+4	hwam	hwa	PRON	WPRO^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Int	8	mark	_	_
+5	seo	seo	DET	D^N	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	sæ	sæ	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+7	si	wesan	AUX	BEPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
+8	sealt	sealt	ADJ	ADJ^N	Case=Nom|Gender=Fem|Number=Sing	1	ccomp	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:25.2.60_ID
+# text = Ic þe secge , for þam þe Moyses wearp on sæ þa tin word ðære æaldan æ , þa ða he worhte þa breda for þam þe Israela folc wurðedon deofolgild .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	9	punct	_	_
+5	for	for	ADP	P	_	7	fixed	_	_
+6	þam	þæt	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	7	fixed	_	_
+7	þe	þe	SCONJ	C	_	9	mark	_	_
+8	Moyses	Moyses	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+9	wearp	weorpan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	parataxis:rep	_	_
+10	on	on	ADP	P	_	11	case	_	_
+11	sæ	sæ	NOUN	N	Case=Acc,Dat|Gender=Fem|Number=Sing	9	obl:lmod	_	_
+12	þa	þæt	DET	D^A	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	14	det	_	_
+13	tin	tin	NUM	NUM	_	14	nummod	_	_
+14	word	word	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+15	ðære	seo	DET	D^G	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+16	æaldan	eald	ADJ	ADJ^G	Case=Gen|Gender=Fem|Number=Sing	17	amod	_	_
+17	æ	æ	NOUN	N^G	Case=Gen|Gender=Fem|Number=Sing	14	nmod:poss	_	_
+18	,	,	PUNCT	,	_	22	punct	_	_
+19	þa	þa	ADV	ADV^T	AdvType=Tim	22	advmod:tmod	_	_
+20	ða	þa	SCONJ	P	_	22	mark	_	_
+21	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
+22	worhte	wyrcan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	advcl	_	_
+23	þa	þæt	DET	D^A	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	24	det	_	_
+24	breda	bred	NOUN	N^A	Case=Acc|Gender=Neut|Number=Plur	22	obj	_	_
+25	for	for	ADP	P	_	27	fixed	_	_
+26	þam	þæt	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	27	fixed	_	_
+27	þe	þe	SCONJ	C	_	30	mark	_	_
+28	Israela	Israel	PROPN	NR^G	Case=Gen	29	nmod:poss	_	_
+29	folc	folc	NOUN	N^N	Case=Nom|Gender=Neut|Number=Plur	30	nsubj	_	_
+30	wurðedon	weorþian	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	22	advcl	_	_
+31	deofolgild	deofolgild	NOUN	N^A	Case=Acc|Compound=Yes|Gender=Neut|Number=Sing	30	obj	_	_
+32	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:26.1.61_ID
+# text = Saga me hwæt sindon þa twegen fet þa þeo sawul habban sceal .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	hwæt	hwæt	PRON	WPRO^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	1	ccomp	_	_
+4	sindon	wesan	AUX	BEPI	Mood=Ind|Tense=Pres	3	cop	_	_
+5	þa	se	DET	D^N	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+6	twegen	twegen	NUM	NUM^N	Case=Nom	7	nummod	_	_
+7	fet	fot	NOUN	N^N	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+8	þa	se	DET	D^A	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	11	det	_	_
+9	þeo	seo	DET	D^N	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	sawul	sawel	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+11	habban	habban	VERB	HV	VerbForm=Inf	7	acl:relcl	_	_
+12	sceal	sculan	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	aux	_	_
+13	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:26.2.62_ID
+# text = Ic þe secge , Godes lufu and manna and gif heo ðæra naðer nafað þanne byð heo healt .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	6	punct	_	_
+5	Godes	god	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	6	nmod:poss	_	_
+6	lufu	lufu	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	3	parataxis:rep	_	_
+7	and	and	CCONJ	CONJ	_	8	cc	_	_
+8	manna	mann	NOUN	N^G	Case=Gen|Gender=Masc|Number=Plur	5	conj	_	_
+9	and	and	CCONJ	CONJ	_	18	cc	_	_
+10	gif	gif	SCONJ	P	_	14	mark	_	_
+11	heo	heo	PRON	PRO^N	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+12	ðæra	se	DET	D^G	Case=Gen|Number=Plur|PronType=Art	13	det	_	_
+13	naðer	nahwæþer	DET	NEG+Q^A	Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg	14	obj	_	_
+14	nafað	nabban	VERB	NEG+HVPI	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	18	acl	_	_
+15	þanne	þonne	ADV	ADV^T	AdvType=Tim	18	advmod:tmod	_	_
+16	byð	beon	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	cop	_	_
+17	heo	heo	PRON	PRO^N	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
+18	healt	healt	ADJ	ADJ^N	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+19	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:27.1.64_ID
+# text = Saga me on hu manegum fiðerum sceal seo sawul fleogan gif heo sceal to heofonum fleogan .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	on	on	ADP	P	_	6	case	_	_
+4	hu	hu	ADV	WADV	PronType=Int	5	fixed	_	_
+5	manegum	manig	DET	Q^D	Case=Dat|Gender=Masc|Number=Plur	6	det	_	_
+6	fiðerum	fiþere	NOUN	N^D	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	_
+7	sceal	sculan	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux	_	_
+8	seo	seo	DET	D^N	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	sawul	sawel	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	_
+10	fleogan	fleogan	VERB	VB	VerbForm=Inf	1	ccomp	_	_
+11	gif	gif	SCONJ	P	_	16	mark	_	_
+12	heo	heo	PRON	PRO^N	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	_
+13	sceal	sculan	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	aux	_	_
+14	to	to	ADP	P	_	15	case	_	_
+15	heofonum	heofon	NOUN	N^D	Case=Dat|Gender=Masc|Number=Plur	16	obl:lmod	_	_
+16	fleogan	fleogan	VERB	VB	VerbForm=Inf	10	advcl	_	_
+17	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:27.3.65_ID
+# text = Ic þe secge , feower , glæwnisse , geþwærnisse , strengþe , and rihwisnisse .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	5	punct	_	_
+5	feower	feower	NUM	NUM	NumType=Card	3	parataxis:rep	_	_
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	glæwnisse	gleawness	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	_
+8	,	,	PUNCT	,	_	9	punct	_	_
+9	geþwærnisse	geþwærness	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	7	list	_	_
+10	,	,	PUNCT	,	_	11	punct	_	_
+11	strengþe	strengþu	NOUN	N^N	Case=Nom|Gender=Fem|Number=Plur	7	list	_	_
+12	,	,	PUNCT	,	_	14	punct	_	_
+13	and	_	CCONJ	CONJ	_	14	cc	_	_
+14	rihwisnisse	rihtwisness	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	7	list	_	_
+15	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:28.1.66_ID
+# text = Saga me , hwilc man wære dead and nære acenned and æfter þam deaðe wære eft bebyried in his moder innoðe .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	,	,	PUNCT	,	_	7	punct	_	_
+4	hwilc	hwilc	DET	WADJ^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	5	det	_	_
+5	man	mann	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+6	wære	wesan	AUX	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past	7	cop	_	_
+7	dead	dead	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	_
+8	and	and	CCONJ	CONJ	_	10	cc	_	_
+9	nære	wesan	AUX	NEG+BEDS	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Past	10	cop	_	_
+10	acenned	acennan	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	7	conj	_	_
+11	and	and	CCONJ	CONJ	_	17	cc	_	_
+12	æfter	æfter	ADP	P	_	14	case	_	_
+13	þam	se	DET	D^D	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	deaðe	deaþ	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	17	obl:tmod	_	_
+15	wære	wesan	AUX	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past	17	cop	_	_
+16	eft	eft	ADV	ADV^T	AdvType=Tim	17	advmod:tmod	_	_
+17	bebyried	bebyrian	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	10	conj	_	_
+18	in	in	ADP	P	_	21	case	_	_
+19	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	moder	modor	NOUN	N^G	Case=Gen|Gender=Fem|Number=Sing	21	nmod:poss	_	_
+21	innoðe	innoþ	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	17	obl:lmod	_	_
+22	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:28.3.67_ID
+# text = Ic þe secge , þæt wæs Adam se æresta man , for þam eorðe wæs his moder and he wæs bebiriged eft in þære eorðan .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	7	punct	_	_
+5	þæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	_
+6	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
+7	Adam	Adam	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	3	parataxis:rep	_	_
+8	se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	æresta	ær	ADJ	ADJS^N	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	10	amod	_	_
+10	man	mann	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	7	appos	_	_
+11	,	,	PUNCT	,	_	17	punct	_	_
+12	for	for	ADP	P	_	17	mark	_	_
+13	þam	þæt	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	12	fixed	_	_
+14	eorðe	eorþ	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
+15	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	17	cop	_	_
+16	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	17	det:poss	_	_
+17	moder	modor	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	7	advcl	_	_
+18	and	and	CCONJ	CONJ	_	21	cc	_	_
+19	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+20	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	21	cop	_	_
+21	bebiriged	bebyrian	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	17	conj	_	_
+22	eft	eft	ADV	ADV^T	AdvType=Tim	21	advmod:tmod	_	_
+23	in	in	ADP	P	_	25	case	_	_
+24	þære	seo	DET	D^D	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
+25	eorðan	eorþ	NOUN	N^D	Case=Dat|Gender=Fem|Number=Sing	21	obl:lmod	_	_
+26	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:29.1.68_ID
+# text = Saga me þære burge naman þær sunne upgæð .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	þære	seo	DET	D^G	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	burge	burh	NOUN	N^G	Case=Gen|Gender=Fem|Number=Sing	5	nmod:poss	_	_
+5	naman	nama	NOUN	N	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
+6	þær	þær	ADV	ADV^L	AdvType=Loc|PronType=Int	8	advmod	_	_
+7	sunne	sunne	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	_
+8	upgæð	upgan	VERB	RP+VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	advcl	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:29.2.69_ID
+# text = Ic þe secge , Iaiaca heo hatte .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	7	punct	_	_
+5	Iaiaca	Iaiaca	PROPN	NR^N	Case=Nom	7	xcomp:pred	_	_
+6	heo	heo	PRON	PRO^N	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	hatte	hatan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	parataxis:rep	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:30.1.70_ID
+# text = Saga me hwæt hatte þæt þær heo on sætl gæð .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	hwæt	hwæt	PRON	WPRO^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	xcomp:pred	_	_
+4	hatte	hatan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	1	ccomp	_	_
+5	þæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	nsubj	_	_
+6	þær	þær	ADV	ADV^L	AdvType=Loc	10	advmod:lmod	_	_
+7	heo	heo	PRON	PRO^N	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+8	on	on	ADP	P	_	9	case	_	_
+9	sætl	sæt	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
+10	gæð	gan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl:relcl	_	_
+11	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:30.2.71_ID
+# text = Ic þe secge , Iainta hit hatte .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	7	punct	_	_
+5	Iainta	Iainta	PROPN	NR^N	Case=Nom	7	xcomp:pred	_	_
+6	hit	hit	PRON	PRO^N	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	hatte	hatan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	3	parataxis:rep	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:31.1.72_ID
+# text = Saga me hwilc word wæs ærest .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	hwilc	hwilc	DET	WADJ^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	4	det	_	_
+4	word	word	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	wæs	wesan	VERB	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	1	ccomp	_	_
+6	ærest	ær	ADV	ADVS^T	AdvType=Tim|Degree=Sup	5	advmod:tmod	_	_
+7	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:31.2.73_ID
+# text = Ic þe secge , Drihten cwæð , gewurðe leoht .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	6	punct	_	_
+5	Drihten	dryhten	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+6	cwæð	cweþan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	parataxis:rep	_	_
+7	,	,	PUNCT	,	_	8	punct	_	_
+8	gewurðe	weorþan	AUX	BEPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres	6	parataxis:rep	_	_
+9	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:32.1.74_ID
+# text = Saga me hwæt is hefegost mannum on eorðan .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	hwæt	hwæt	PRON	WPRO^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	_
+4	is	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+5	hefegost	hefig	ADJ	ADJS^N	Case=Nom|Degree=Sup|Gender=Neut|Number=Sing	1	ccomp	_	_
+6	mannum	mann	NOUN	N^D	Case=Dat|Gender=Masc|Number=Plur	5	iobj	_	_
+7	on	on	ADP	P	_	8	case	_	_
+8	eorðan	eorþ	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	5	obl:lmod	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:32.2.75_ID
+# text = Ic þe secge , hlafordes yrre .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	6	punct	_	_
+5	hlafordes	hlaford	NOUN	N^G	Case=Gen|Gender=Masc|Number=Sing	6	nmod:poss	_	_
+6	yrre	irre	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	3	parataxis:rep	_	_
+7	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:33.1.76_ID
+# text = $Saga me hu fela si fleogendra fugela kynna .
+1	$Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	hu	hu	ADV	WADV	PronType=Int	4	fixed	_	_
+4	fela	fela	DET	Q	_	5	nsubj	_	_
+5	si	wesan	VERB	BEPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres	1	ccomp	_	_
+6	fleogendra	fleogan	VERB	VAG^G	Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	7	amod	_	_
+7	fugela	fugel	NOUN	N^G	Case=Gen|Gender=Masc|Number=Plur	8	nmod:poss	_	_
+8	kynna	cynn	NOUN	N^G	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	_
+9	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:33.2.77_ID
+# text = Ic þe secge , twa and fiftig .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	5	punct	_	_
+5	twa	twegen	NUM	NUM	NumType=Card	3	parataxis:rep	_	_
+6	and	and	CCONJ	CONJ	_	5	flat	_	_
+7	fiftig	fiftig	NUM	NUM	NumType=Card	5	flat	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:34.1.78_ID
+# text = Saga me hwæt nædderkinna si on eorðan .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	hwæt	hwæt	PRON	WPRO^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	_
+4	nædderkinna	nædercynn	NOUN	N^G	Case=Gen|Compound=Yes|Gender=Neut|Number=Plur	3	nmod	_	_
+5	si	wesan	VERB	BEPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres	1	ccomp	_	_
+6	on	on	ADP	P	_	7	case	_	_
+7	eorðan	eorþ	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	5	obl:lmod	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:34.2.79_ID
+# text = Ic þe secge , feower and þrittig .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	5	punct	_	_
+5	feower	feower	NUM	NUM	NumType=Card	3	parataxis:rep	_	_
+6	and	and	CCONJ	CONJ	_	5	flat	_	_
+7	þrittig	þritig	NUM	NUM	NumType=Card	5	flat	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coadrian,Ad:35.1.80_ID
+# text = Saga me hwæt fisckinna si on wætere .
+1	Saga	secgan	VERB	VBI	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+2	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	hwæt	hwæt	PRON	WPRO^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	_
+4	fisckinna	fisccynn	NOUN	N^G	Case=Gen|Compound=Yes|Gender=Neut|Number=Sing	3	nmod	_	_
+5	si	wesan	VERB	BEPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres	1	ccomp	_	_
+6	on	on	ADP	P	_	7	case	_	_
+7	wætere	wæter	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	5	obl:lmod	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+# sent_id = coadrian,Ad:35.2.81_ID
+# text = Ic þe secge , six and þrittig .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	þe	þu	PRON	PRO	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	secge	secgan	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+4	,	,	PUNCT	,	_	5	punct	_	_
+5	six	six	NUM	NUM	NumType=Card	3	parataxis:rep	_	_
+6	and	_	CCONJ	CONJ	_	5	flat	_	_
+7	þrittig	þritig	NUM	NUM	NumType=Card	5	flat	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:240.132_ID
+# text = $ac $þa $eaðelican $gesceafta sceoldon gewyldan his modignysse , þæt $he wa ne $on flot , þæt he <textmissing> ne forferde gyf he swa *yc:text .
+1	$ac	ac	CCONJ	CONJ	_	6	cc	_	_
+2	$þa	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+3	$eaðelican	eaþelic	ADJ	ADJ^N	Case=Nom|Gender=Neut|Number=Plur	4	amod	_	_
+4	$gesceafta	gesceaft	NOUN	N^N	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
+5	sceoldon	sculan	AUX	MDDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	6	aux	_	_
+6	gewyldan	wyldan	VERB	VB	VerbForm=Inf	0	root	_	_
+7	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	modignysse	modigness	NOUN	N	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	,	,	PUNCT	,	_	11	punct	_	_
+10	þæt	þæt	SCONJ	XX	_	11	mark	_	_
+11	$he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	advcl	_	_
+12	wa	wa	INTJ	XX	_	11	dep	_	_
+13	ne	ne	CCONJ	NEG+CONJ	Polarity=Neg	11	cc	_	_
+14	$on	on	ADP	P	_	15	case	_	_
+15	flot	flot	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	11	obl	_	_
+16	,	,	PUNCT	,	_	21	punct	_	_
+17	þæt	þæt	SCONJ	XX	_	21	mark	_	_
+18	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+19	<textmissing>	_	_	missing+>	_	21	orphan:missing	_	_
+20	ne	ne	PART	NEG	_	21	advmod:neg	_	_
+21	forferde	_	VERB	VBD	Mood=Imp,Sub|Tense=Past	6	advcl	_	_
+22	gyf	gif	SCONJ	P	_	25	mark	_	_
+23	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+24	swa	swa	ADV	ADV	_	25	advmod	_	_
+25	*yc:text	_	_	missing+>	_	21	advcl	_	_
+26	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:247.133_ID
+# text = $Oft $man wyrcð nu isen of eorðan gold & $seolfor
+1	$Oft	oft	ADV	ADV^T	AdvType=Tim	3	advmod:tmod	_	_
+2	$man	man	PRON	MAN^N	Case=Nom|Number=Sing|PronType=Ind	3	nsubj	_	_
+3	wyrcð	wyrcan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	nu	nu	ADV	ADV^T	AdvType=Tim	3	advmod:tmod	_	_
+5	isen	isen	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+6	of	of	ADP	P	_	8	case	_	_
+7	eorðan	eorþ	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
+8	gold	gold	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	_
+9	&	and	CCONJ	CONJ	_	10	cc	_	_
+10	$seolfor	seolfor	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	8	conj	_	_
+
+# sent_id = coaelhom,ÆHom_1:247.134_ID
+# text = $ac $hi $ne $mihte nan mann macian to wecgum gyf God ne geworhte þa oran to þam .
+1	$ac	ac	CCONJ	CONJ	_	7	cc	_	_
+2	$hi	hie	PRON	PRO^A	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	_
+3	$ne	ne	PART	NEG	Polarity=Neg	7	advmod:neg	_	_
+4	$mihte	magan	AUX	MDD	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	aux	_	_
+5	nan	nan	DET	NEG+Q^N	Case=Nom|Gender=Masc|Number=Sing|Polarity=Neg	6	det	_	_
+6	mann	mann	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+7	macian	macian	VERB	VB	VerbForm=Inf	0	root	_	_
+8	to	to	ADP	P	_	9	case	_	_
+9	wecgum	wecg	NOUN	N^D	Case=Dat|Gender=Masc|Number=Plur	7	obl	_	_
+10	gyf	gif	SCONJ	P	_	13	mark	_	_
+11	God	God	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
+12	ne	ne	PART	NEG	Polarity=Neg	13	advmod:neg	_	_
+13	geworhte	wyrcan	VERB	VBD	Mood=Ind|Tense=Past	7	advcl	_	_
+14	þa	se	DET	D^A	Case=Acc|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	oran	ora	NOUN	N^A	Case=Acc|Gender=Masc|Number=Plur	13	obj	_	_
+16	to	to	ADP	P	_	17	case	_	_
+17	þam	se	DET	D^D	Case=Dat|Number=Plur|PronType=Dem	13	obl	_	_
+18	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:251.135_ID
+# text = Ne furðon ænne sticcan ne ænne stæf we næfdon ne ane oflætan to urum mæssan gode gyf he us ne foresceawode him sylf þæt on ær ;
+1	Ne	ne	CCONJ	NEG+CONJ	Polarity=Neg	9	cc	_	_
+2	furðon	forþon	ADV	FP	_	9	advmod	_	_
+3	ænne	an	NUM	NUM^A	Case=Acc|Gender=Masc|Number=Sing	4	nummod	_	_
+4	sticcan	sticca	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+5	ne	ne	CCONJ	NEG+CONJ	Polarity=Neg	7	cc	_	_
+6	ænne	an	NUM	NUM^A	Case=Acc|Gender=Masc|Number=Sing	7	nummod	_	_
+7	stæf	stafa	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	_
+8	we	we	PRON	PRO^N	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+9	næfdon	nabban	VERB	NEG+HVDI	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Past	0	root	_	_
+10	ne	ne	CCONJ	NEG+CONJ	Polarity=Neg	12	cc	_	_
+11	ane	an	NUM	NUM^A	Case=Acc|Gender=Fem|Number=Sing	12	nummod	_	_
+12	oflætan	oflæte	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	_
+13	to	to	ADP	P	_	15	case	_	_
+14	urum	ure	DET	PRO$^D	Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=1	15	det:poss	_	_
+15	mæssan	mæsse	NOUN	N^D	Case=Dat|Gender=Fem|Number=Sing	12	nmod	_	_
+16	gode	god	ADJ	ADJ^A	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	_
+17	gyf	gif	SCONJ	P	_	21	mark	_	_
+18	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	_
+19	us	we	PRON	PRO	Case=Dat|Number=Plur|Person=1|PronType=Prs	21	iobj	_	_
+20	ne	ne	PART	NEG	Polarity=Neg	21	advmod:neg	_	_
+21	foresceawode	foresceawian	VERB	RP+VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	advcl	_	_
+22	him	he	PRON	PRO^D	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	appos	_	_
+23	sylf	self	ADJ	ADJ^N	Case=Nom|Emphatic=Yes|Gender=Masc|Number=Sing	22	fixed	_	_
+24	þæt	þæt	DET	D^A	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	21	obl	_	_
+25	on	on	ADP	P	_	24	case	_	_
+26	ær	ær	ADV	ADV^T	AdvType=Tim	21	advmod:tmod	_	_
+27	;	;	PUNCT	.	_	9	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:251.136_ID
+# text = & we magon swaþeah mid his agenum þingum hine us gegladian & hine eac gremian gyf we him ætbredað his agene cyste his cystigan modes .
+1	&	and	CCONJ	CONJ	_	11	cc	_	_
+2	we	we	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+3	magon	magan	AUX	MDPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres	11	aux	_	_
+4	swaþeah	swaþeah	ADV	ADV	_	11	advmod	_	_
+5	mid	mid	ADP	P	_	8	case	_	_
+6	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
+7	agenum	agen	ADJ	ADJ^D	Case=Dat|Gender=Neut|Number=Plur	8	amod	_	_
+8	þingum	þing	NOUN	N^D	Case=Dat|Gender=Neut|Number=Plur	11	obl	_	_
+9	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+10	us	we	PRON	PRO	Case=Dat|Number=Plur|Person=1	11	iobj	_	_
+11	gegladian	gladia	VERB	VB	VerbForm=Inf	0	root	_	_
+12	&	and	CCONJ	CONJ	_	15	cc	_	_
+13	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+14	eac	eac	ADV	ADV	_	15	advmod	_	_
+15	gremian	gremian	VERB	VB	VerbForm=Inf	11	conj	_	_
+16	gyf	gif	SCONJ	P	_	19	mark	_	_
+17	we	we	PRON	PRO^N	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
+18	him	he	PRON	PRO^D	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	iobj	_	_
+19	ætbredað	ætbredan	VERB	VBPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres	11	advcl	_	_
+20	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	22	det:poss	_	_
+21	agene	agen	ADJ	ADJ^A	Case=Acc|Gender=Fem|Number=Sing	22	amod	_	_
+22	cyste	cyst	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	_
+23	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	25	det:poss	_	_
+24	cystigan	cystig	ADJ	ADJ^G	Case=Gen|Gender=Neut|Number=Sing	25	amod	_	_
+25	modes	mod	NOUN	N^G	Case=Gen|Gender=Neut|Number=Sing	22	nmod:poss	_	_
+26	.	.	PUNCT	.	_	11	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:258.137_ID
+# text = Đa deoplican drymen mid heora drycræftum on Egypta lande þe forlærdon Farao worhton manega tacna ongean Moysen of þam ylcan antimbre þe God ær gesceop , oðþæt hi sylfe sædon , oferswyðede æt nextan , Digitus Dei est hoc , þæt Godes finger wære Moysen on fultume & hi ne mihton na leng Moyse wiðstandan for þam strangan fingre þe hi gefreddan hiom ongean .
+1	Đa	se	DET	D^N	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
+2	deoplican	deoplic	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	_
+3	drymen	drime	NOUN	N^N	Case=Nom|Gender=Masc|Number=Plur	13	nsubj	_	_
+4	mid	mid	ADP	P	_	6	case	_	_
+5	heora	hira	DET	PRO$	Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	6	det:poss	_	_
+6	drycræftum	drycræft	NOUN	N^D	Case=Dat|Gender=Masc|Number=Plur	13	obl	_	_
+7	on	on	ADP	P	_	9	case	_	_
+8	Egypta	Egipte	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	9	nmod:poss	_	_
+9	lande	land	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	13	obl	_	_
+10	þe	þe	SCONJ	C	PronType=Rel	11	mark	_	_
+11	forlærdon	forlæran	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	acl:relcl	_	_
+12	Farao	Pharao	PROPN	NR^A	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+13	worhton	wyrcan	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+14	manega	manig	DET	Q^A	Case=Acc|Gender=Neut|Number=Plur	15	det	_	_
+15	tacna	tacn	NOUN	N^A	Case=Acc|Gender=Neut|Number=Plur	13	obj	_	_
+16	ongean	ongeagn	ADP	P	_	17	case	_	_
+17	Moysen	Moyses	PROPN	NR^A	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	_
+18	of	of	ADP	P	_	21	case	_	_
+19	þam	þæt	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	21	det	_	_
+20	ylcan	ilca	ADJ	ADJ^D	Case=Dat|Gender=Neut|Number=Sing	21	amod	_	_
+21	antimbre	andtimber	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	15	nmod	_	_
+22	þe	þe	SCONJ	C	PronType=Rel	25	mark	_	_
+23	God	God	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	25	nsubj	_	_
+24	ær	ær	ADV	ADV^T	AdvType=Tim	25	advmod:tmod	_	_
+25	gesceop	scippan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	21	acl:relcl	_	_
+26	,	,	PUNCT	,	_	30	punct	_	_
+27	oðþæt	oþþæt	SCONJ	P	_	30	mark	_	_
+28	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	30	nsubj	_	_
+29	sylfe	self	ADJ	ADJ^N	Case=Nom|Emphatic=Yes|Number=Plur	28	amod	_	_
+30	sædon	secgan	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	advcl	_	_
+31	,	,	PUNCT	,	_	32	punct	_	_
+32	oferswyðede	oferswyþan	VERB	RP+VBN^N	Aspect=Perf|Case=Nom|Tense=Past|VerbForm=Part	28	amod	_	_
+33	æt	æt	ADP	P	_	34	case	_	_
+34	nextan	neahsta	ADJ	ADJS	_	32	nmod	_	_
+35	,	,	PUNCT	,	_	38	punct	_	_
+36	Digitus	digitus	NOUN	FW	Case=Nom|Gender=Masc|Number=Sing	38	nsubj	_	_
+37	Dei	Deus	NOUN	FW	Case=Gen|Gender=Masc|Number=Sing	36	nmod:poss	_	_
+38	est	sum	VERB	FW	Mood=Ind|Number=Sing|Person=3|Tense=Pres	30	ccomp	_	_
+39	hoc	hoc	ADV	FW	AdvType=Loc	38	advmod:lmod	_	_
+40	,	,	PUNCT	,	_	44	punct	_	_
+41	þæt	þæt	SCONJ	C	_	44	mark	_	_
+42	Godes	God	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	43	nmod:poss	_	_
+43	finger	finger	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	44	nsubj	_	_
+44	wære	wesan	VERB	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past	30	ccomp	_	_
+45	Moysen	Moyses	PROPN	NR	Case=Acc|Gender=Masc|Number=Sing	44	iobj	_	_
+46	on	on	ADP	P	_	47	case	_	_
+47	fultume	fultum	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	44	obl	_	_
+48	&	and	CCONJ	CONJ	_	55	cc	_	_
+49	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	55	nsubj	_	_
+50	ne	ne	PART	NEG	Polarity=Neg	55	advmod:neg	_	_
+51	mihton	magan	AUX	MDDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	55	aux	_	_
+52	na	na	ADV	NEGÆDV	_	53	advmod:neg	_	_
+53	leng	lange	ADV	ADVR^T	AdvType=Tim	55	advmod:tmod	_	_
+54	Moyse	Moyses	PROPN	NR^D	Case=Dat|Gender=Masc|Number=Sing	55	iobj	_	_
+55	wiðstandan	wiþstandan	VERB	RP+VB	VerbForm=Inf	44	conj	_	_
+56	for	for	ADP	P	_	59	case	_	_
+57	þam	se	DET	D^D	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	59	det	_	_
+58	strangan	strang	ADJ	ADJ^D	Case=Dat|Gender=Masc|Number=Sing	59	amod	_	_
+59	fingre	finger	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	55	obl	_	_
+60	þe	þe	SCONJ	C	PronType=Rel	62	mark	_	_
+61	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	62	nsubj	_	_
+62	gefreddan	gefredan	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	59	acl:relcl	_	_
+63	hiom	hie	PRON	PRO^D	Case=Dat|Number=Plur|Person=3|PronType=Prs	62	obl	_	_
+64	ongean	ongeagn	ADP	P	_	63	case	_	_
+65	.	.	PUNCT	.	_	13	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:267.138_ID
+# text = Ge ne magon na swiðor , þeah ðe we eow secgon , heora $scincræft tocnawan ,
+1	Ge	ge	PRON	PRO^N	Case=Nom|Number=Plur|Person=2|PronType=Prs	15	nsubj	_	_
+2	ne	ne	PART	NEG	Polarity=Neg	15	advmod:neg	_	_
+3	magon	magan	AUX	MDPI	Mood=Ind|Number=Plur|Person=2|Tense=Pres	15	aux	_	_
+4	na	na	ADV	NEGÆDV	Polarity=Neg	5	advmod:neg	_	_
+5	swiðor	swiþe	ADV	ADVR	Degree=Cmp	15	advmod	_	_
+6	,	,	PUNCT	,	_	11	punct	_	_
+7	þeah	þeah	ADP	P	_	8	fixed	_	_
+8	ðe	þe	SCONJ	C	_	11	mark	_	_
+9	we	we	PRON	PRO^N	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
+10	eow	ge	PRON	PRO	Case=Dat|Number=Plur|Person=2|PronType=Prs	11	iobj	_	_
+11	secgon	secgan	VERB	VBPS	Mood=Sub|Number=Plur|Person=1|Tense=Pres	15	advcl	_	_
+12	,	,	PUNCT	,	_	15	punct	_	_
+13	heora	hira	DET	PRO$	Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	14	det:poss	_	_
+14	$scincræft	scincræft	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+15	tocnawan	tocnawan	VERB	RP+VB	VerbForm=Inf	0	root	_	_
+16	,	,	PUNCT	.	_	15	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:267.139_ID
+# text = ac us secgað lareowas þæt of fearres flæsce , fule stincendum , beoð beon acende , þæt hi cuce swa fleoð , & of assan flæsce cumað wæpsas & of horses flæsce cumað eac hyrnetta , & on ælcum wæstme , gyf hit miswent on geare cumað $syndrige wurmas , swa swa we gesawon oft .
+1	ac	ac	CCONJ	CONJ	_	3	cc	_	_
+2	us	we	PRON	PRO	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	iobj	_	_
+3	secgað	secgan	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+4	lareowas	lareow	NOUN	N^N	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
+5	þæt	þæt	SCONJ	C	_	15	mark	_	_
+6	of	of	ADP	P	_	8	case	_	_
+7	fearres	fearr	NOUN	N^G	Case=Gen|Gender=Masc|Number=Sing	8	nmod:poss	_	_
+8	flæsce	flæsc	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	15	obl	_	_
+9	,	,	PUNCT	,	_	11	punct	_	_
+10	fule	fule	ADV	ADV	_	11	advmod	_	_
+11	stincendum	stincan	VERB	VAG^D	AdvType=Loc|Aspect=Imp|Tense=Pres|VerbForm=Part	8	amod	_	_
+12	,	,	PUNCT	,	_	15	punct	_	_
+13	beoð	beon	AUX	BEPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	aux:pass	_	_
+14	beon	beo	NOUN	N^N	Case=Nom|Gender=Fem|Number=Plur	15	nsubj:pass	_	_
+15	acende	acennan	VERB	VBN^N	Aspect=Perf|Case=Nom|Tense=Past|VerbForm=Part	3	ccomp	_	_
+16	,	,	PUNCT	,	_	21	punct	_	_
+17	þæt	þæt	SCONJ	C	_	21	mark	_	_
+18	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	21	nsubj	_	_
+19	cuce	cuc	ADJ	ADJ^N	Case=Nom|Gender=Fem|Number=Plur	18	amod	_	_
+20	swa	swa	ADV	ADV	_	21	advmod	_	_
+21	fleoð	fleon	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	ccomp	_	_
+22	,	,	PUNCT	,	_	27	punct	_	_
+23	&	and	CCONJ	CONJ	_	27	cc	_	_
+24	of	of	ADP	P	_	26	case	_	_
+25	assan	assa	NOUN	N^G	Case=Gen|Gender=Masc|Number=Sing	26	nmod:poss	_	_
+26	flæsce	flæsc	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	27	obl	_	_
+27	cumað	cuman	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	21	conj	_	_
+28	wæpsas	wæps	NOUN	N^N	Case=Nom|Gender=Masc|Number=Plur	27	nsubj	_	_
+29	&	and	CCONJ	CONJ	_	33	cc	_	_
+30	of	of	ADP	P	_	32	case	_	_
+31	horses	hors	NOUN	N^G	Case=Gen|Gender=Neut|Number=Sing	32	nmod:poss	_	_
+32	flæsce	flæsc	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	33	obl	_	_
+33	cumað	cuman	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	21	conj	_	_
+34	eac	eac	ADV	ADV	_	33	advmod	_	_
+35	hyrnetta	hyrnetu	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	33	nsubj	_	_
+36	,	,	PUNCT	,	_	47	punct	_	_
+37	&	and	CCONJ	CONJ	_	40	cc	_	_
+38	on	on	ADP	P	_	40	case	_	_
+39	ælcum	ælc	DET	Q^D	Case=Dat|Gender=Masc|Number=Sing	40	det	_	_
+40	wæstme	wæstm	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	47	obl	_	_
+41	,	,	PUNCT	,	_	44	punct	_	_
+42	gyf	gif	SCONJ	P	_	44	mark	_	_
+43	hit	hit	PRON	PRO^N	Case=Nom|Gender=Neut|Number=Sing	44	nsubj	_	_
+44	miswent	miswendan	VERB	VBPS	Mood=Sub|Number=Sing|Person=3|Tense=Pres	47	advcl	_	_
+45	on	on	ADP	P	_	46	case	_	_
+46	geare	gear	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	44	obl	_	_
+47	cumað	cuman	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	21	conj	_	_
+48	$syndrige	syndrig	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Plur	49	amod	_	_
+49	wurmas	wyrm	NOUN	N^N	Case=Nom|Gender=Masc|Number=Plur	47	nsubj	_	_
+50	,	,	PUNCT	,	_	54	punct	_	_
+51	swa	swa	ADV	ADV	_	52	fixed	_	_
+52	swa	swa	SCONJ	P	_	54	mark	_	_
+53	we	we	PRON	PRO^N	Case=Nom|Number=Plur|Person=1|PronType=Prs	54	nsubj	_	_
+54	gesawon	seon	VERB	VBDI	Mood=Ind|Number=Plur|Person=1|Tense=Past	47	acl	_	_
+55	oft	oft	ADV	ADV^T	AdvType=Tim	54	advmod:tmod	_	_
+56	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:275.140_ID
+# text = We secgað nu forð on embe þis soðe godspell :
+1	We	we	PRON	PRO^N	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	secgað	secgan	VERB	VBPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
+3	nu	nu	ADV	ADV^T	AdvType=Tim	2	advmod:tmod	_	_
+4	forð	forþ	ADV	RP	_	2	advmod	_	_
+5	on	on	ADV	RP	_	2	advmod	_	_
+6	embe	ymb	ADP	P	_	9	case	_	_
+7	þis	þis	DET	D^A	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	_
+8	soðe	soþ	ADJ	ADJ^A	Case=Acc|Gender=Neut|Number=Sing	9	amod	_	_
+9	godspell	godspell	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	_
+10	:	:	PUNCT	.	_	2	punct	_	_
+
+# newdoc
+# newpar
+# sent_id = coaelhom,ÆHom_1:275.140_ID-bis
+# text = ðæt þæt geworht is wæs lif on him sylfum .
+1	ðæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
+2	þæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj:pass	_	_
+3	geworht	wyrcan	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
+4	is	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	aux:pass	_	_
+5	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
+6	lif	lif	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+7	on	on	ADP	P	_	8	case	_	_
+8	him	he	PRON	PRO^D	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+9	sylfum	self	ADJ	ADJ^D	Case=Dat|Emphatic=Yes|Gender=Masc|Number=Sing	8	amod	_	_
+10	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:277.142_ID
+# text = Đeos eorðe is geworht , ac heo nis na hyre sylf lif ,
+1	Đeos	þeos	DET	D^N	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+2	eorðe	eorþ	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+3	is	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux:pass	_	_
+4	geworht	wyrcan	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+5	,	,	PUNCT	.	_	4	punct	_	_
+6	ac	ac	CCONJ	CONJ	_	12	cc	_	_
+7	heo	heo	PRON	PRO^N	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+8	nis	nesan	AUX	NEG+BEPI	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	cop	_	_
+9	na	na	ADV	NEGÆDV	Polarity=Neg	12	advmod:neg	_	_
+10	hyre	heo	PRON	PRO^D	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+11	sylf	self	ADJ	ADJ^N	Case=Nom|Emphatic=Yes|Gender=Fem|Number=Sing	10	amod	_	_
+12	lif	lif	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+13	,	,	PUNCT	.	_	4	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:277.144_ID
+# text = ac on þam wisdome þe geworhte þa eorþan is þæt liflice gescead þe gesceop ða eorðan .
+1	ac	ac	CCONJ	CONJ	_	9	cc	_	_
+2	on	on	ADP	P	_	4	case	_	_
+3	þam	se	DET	D^D	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	wisdome	wisdome	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	_
+5	þe	þe	SCONJ	C	PronType=Rel	6	mark	_	_
+6	geworhte	wyrcan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	acl:relcl	_	_
+7	þa	seo	DET	D^A	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	eorþan	eorþ	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+9	is	wesan	VERB	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+10	þæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+11	liflice	liflic	ADJ	ADJ^N	Case=Nom|Gender=Neut|Number=Sing	12	amod	_	_
+12	gescead	gescead	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+13	þe	þe	SCONJ	C	PronType=Rel	14	mark	_	_
+14	gesceop	scippan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	acl:relcl	_	_
+15	ða	seo	DET	D^A	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	eorðan	eorþ	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
+17	.	.	PUNCT	.	_	9	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:280.145_ID
+# text = Đu sceawast þa heofonan & sunnan & monan ;
+1	Đu	þu	PRON	PRO^N	Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	sceawast	sceawian	VERB	VBPI	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	_
+3	þa	seo	DET	D^A	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	heofonan	heofon	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	_
+5	&	and	CCONJ	CONJ	_	6	cc	_	_
+6	sunnan	sunne	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	_
+7	&	and	CCONJ	CONJ	_	8	cc	_	_
+8	monan	mona	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	_
+9	;	;	PUNCT	.	_	2	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:280.146_ID
+# text = hi synd on þam cræfte ,
+1	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	synd	wesan	VERB	BEPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+3	on	on	ADP	P	_	5	case	_	_
+4	þam	se	DET	D^D	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	cræfte	cræft	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
+6	,	,	PUNCT	.	_	2	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:280.147_ID
+# text = we cweðað nu swutelicor , on þam Godes wisdome , þe is witodlice lif , & cann wyrcan his weorc be his dihte ,
+1	we	we	PRON	PRO^N	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	cweðað	cweþan	VERB	VBPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
+3	nu	nu	ADV	ADV^T	AdvType=Tim	2	advmod:tmod	_	_
+4	swutelicor	sweotollice	ADV	ADVR	Degree=Cmp	2	advmod	_	_
+5	,	,	PUNCT	,	_	9	punct	_	_
+6	on	on	ADP	P	_	9	case	_	_
+7	þam	se	DET	D^D	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	Godes	God	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	9	nmod:poss	_	_
+9	wisdome	wisdom	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
+10	,	,	PUNCT	,	_	14	punct	_	_
+11	þe	þe	SCONJ	C	PronType=Rel	14	mark	_	_
+12	is	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	cop	_	_
+13	witodlice	witodlice	ADV	ADV	_	14	advmod	_	_
+14	lif	lif	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	9	acl:relcl	_	_
+15	,	,	PUNCT	,	_	18	punct	_	_
+16	&	and	CCONJ	CONJ	_	18	cc	_	_
+17	cann	cunnan	AUX	MDPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	aux	_	_
+18	wyrcan	wyrcan	VERB	VB	VerbForm=Inf	14	conj	_	_
+19	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	20	det:poss	_	_
+20	weorc	weorc	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+21	be	be	ADP	P	_	23	case	_	_
+22	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	23	det:poss	_	_
+23	dihte	diht	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	18	obl	_	_
+24	,	,	PUNCT	.	_	2	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:280.148_ID
+# text = & he is ure lif on þam we lybbað & styriað , & on þam we syndon , swa swa us sæde Paulus .
+1	&	and	CCONJ	CONJ	_	5	cc	_	_
+2	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+3	is	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
+4	ure	ure	DET	PRO$^N	Case=Nom|Gender=Neut|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	5	det:poss	_	_
+5	lif	lif	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+6	on	on	ADP	P	_	7	case	_	_
+7	þam	þæt	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	9	obl	_	_
+8	we	we	PRON	PRO^N	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	_
+9	lybbað	libban	VERB	VBPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres	5	acl:relcl	_	_
+10	&	and	CCONJ	CONJ	_	11	cc	_	_
+11	styriað	styrian	VERB	VBPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres	9	conj	_	_
+12	,	,	PUNCT	,	_	17	punct	_	_
+13	&	and	CCONJ	CONJ	_	17	cc	_	_
+14	on	on	ADP	P	_	15	case	_	_
+15	þam	þæt	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Rel	17	obl	_	_
+16	we	we	PRON	PRO^N	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	_
+17	syndon	wesan	VERB	BEPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres	9	conj	_	_
+18	,	,	PUNCT	,	_	22	punct	_	_
+19	swa	swa	ADV	ADV	_	20	fixed	_	_
+20	swa	swa	SCONJ	P	_	22	mark	_	_
+21	us	we	PRON	PRO	Case=Dat|Number=Plur|Person=1|PronType=Prs	22	iobj	_	_
+22	sæde	secgan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	advcl	_	_
+23	Paulus	Paulus	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+24	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:286.149_ID
+# text = And þæt lif witodlice wæs manna leoht .
+1	And	and	CCONJ	CONJ	_	7	cc	_	_
+2	þæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	lif	lif	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+4	witodlice	witodlice	ADV	ADV	_	5	advmod	_	_
+5	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
+6	manna	mann	NOUN	N^G	Case=Gen|Gender=Masc|Number=Plur	7	nmod:poss	_	_
+7	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+8	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:287.150_ID
+# text = Đæra manna leoht he is þe gelyfað on hine , swa swa he sylf cwæð on sumon godspelle :
+1	Đæra	se	DET	D^G	Case=Gen|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	manna	mann	NOUN	N^G	Case=Gen|Gender=Masc|Number=Plur	3	nmod:poss	_	_
+3	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+4	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	is	is	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+6	þe	þe	SCONJ	C	_	7	mark	_	_
+7	gelyfað	lifan	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	2	acl:relcl	_	_
+8	on	on	ADP	P	_	9	case	_	_
+9	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	_
+10	,	,	PUNCT	,	_	15	punct	_	_
+11	swa	swa	ADV	ADV	_	12	fixed	_	_
+12	swa	swa	SCONJ	P	_	15	mark	_	_
+13	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+14	sylf	self	ADJ	ADJ^N	Case=Nom|Emphatic=Yes|Gender=Masc|Number=Sing	13	amod	_	_
+15	cwæð	cweþan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	acl	_	_
+16	on	on	ADP	P	_	18	case	_	_
+17	sumon	sum	DET	Q^D	Case=Dat|Gender=Neut|Number=Sing	18	det	_	_
+18	godspelle	godspell	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	15	obl	_	_
+19	:	:	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:287.151_ID
+# text = Ego sum lux mundi , et cetera :
+1	Ego	ego	PRON	FW	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	sum	sum	AUX	FW	Mood=Ind|Person=1|PronType=Prs|Tense=Pres	3	cop	_	_
+3	lux	lux	NOUN	FW	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+4	mundi	mundus	NOUN	FW	Case=Gen|Gender=Masc|Number=Sing	3	nmod:poss	_	_
+5	,	,	PUNCT	,	_	7	punct	_	_
+6	et	et	CCONJ	FW	_	7	cc	_	_
+7	cetera	ceterum	NOUN	FW	Case=Nom|Gender=Neut|Number=Plur	3	conj	_	_
+8	:	:	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:287.152_ID
+# text = Ic eom middaneardes leoht , & se ðe me fyligð , ne gæð he na on þeostrum , ac hæfð lifes leoht .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	eom	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	cop	_	_
+3	middaneardes	middaneard	NOUN	N^G	Case=Gen|Gender=Masc|Number=Sing	4	nmod:poss	_	_
+4	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+5	,	,	PUNCT	.	_	13	punct	_	_
+6	&	and	CCONJ	CONJ	_	13	cc	_	_
+7	se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	dislocated:nsubj	_	_
+8	ðe	þe	SCONJ	C	PronType=Rel	10	mark	_	_
+9	me	ic	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
+10	fyligð	fylgean	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	acl:relcl	_	_
+11	,	,	PUNCT	,	_	13	punct	_	_
+12	ne	ne	PART	NEG	Polarity=Neg	13	advmod:neg	_	_
+13	gæð	gan	VERB	VBPI	Mood=Ind|Tense=Pres	4	conj	_	_
+14	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
+15	na	na	ADV	NEGÆDV	Polarity=Neg	13	advmod:neg	_	_
+16	on	on	ADP	P	_	17	case	_	_
+17	þeostrum	þeostru	NOUN	N^D	Case=Dat|Gender=Fem|Number=Plur	13	obl	_	_
+18	,	,	PUNCT	.	_	20	punct	_	_
+19	ac	ac	CCONJ	CONJ	_	20	cc	_	_
+20	hæfð	habban	VERB	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	conj	_	_
+21	lifes	lif	NOUN	N^G	Case=Gen|Gender=Neut|Number=Sing	22	nmod:poss	_	_
+22	leoht	leoht	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+23	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:292.155_ID
+# text = And þæt leoht scean on þystrum , & þa ðeostru ne underfengon þæt foresæde leoht .
+1	And	and	CCONJ	CONJ	_	4	cc	_	_
+2	þæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+3	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	scean	scinan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	on	on	ADP	P	_	6	case	_	_
+6	þystrum	þeostru	NOUN	N^D	Case=Dat|Gender=Fem|Number=Plur	4	obl	_	_
+7	,	,	PUNCT	.	_	4	punct	_	_
+8	&	and	CCONJ	CONJ	_	12	cc	_	_
+9	þa	seo	DET	D^N	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	ðeostru	þeostru	NOUN	N^N	Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	_
+11	ne	ne	PART	NEG	Polarity=Neg	12	advmod:neg	_	_
+12	underfengon	underfon	VERB	RP+VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	_
+13	þæt	þæt	DET	D^A	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	15	det	_	_
+14	foresæde	foresecgan	VERB	RP+VBN^A	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	15	amod	_	_
+15	leoht	leoht	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+16	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:294.157_ID
+# text = Swa swa þære sunnan leoht bescinð þæne blindan , & se blinda ne gesihð $þone scinendan leoman , swa eac $þa unrihtwisan & þa ungeleaffullan mid $ablendum modum ne mihton geseon þæs Hælendes leoht þe onliht þas $woruld .
+1	Swa	swa	ADV	ADV	_	2	fixed	_	_
+2	swa	swa	SCONJ	P	_	6	mark	_	_
+3	þære	seo	DET	D^G	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	sunnan	sunne	NOUN	N^G	Case=Gen|Gender=Fem|Number=Sing	5	nmod:poss	_	_
+5	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+6	bescinð	bescinan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	31	advcl	_	_
+7	þæne	se	DET	D^A	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	blindan	blind	ADJ	ADJ^A	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	_
+9	,	,	PUNCT	,	_	14	punct	_	_
+10	&	and	CCONJ	CONJ	_	14	cc	_	_
+11	se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+12	blinda	blind	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+13	ne	ne	PART	NEG	Polarity=Neg	14	advmod:neg	_	_
+14	gesihð	seon	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	conj	_	_
+15	$þone	se	DET	D^A	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+16	scinendan	scinan	VERB	VAG^A	Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	17	amod	_	_
+17	leoman	leoma	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	_
+18	,	,	PUNCT	,	_	31	punct	_	_
+19	swa	swa	ADV	ADV	_	31	advmod	_	_
+20	eac	eac	ADV	ADV	_	31	advmod	_	_
+21	$þa	se	DET	D^N	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
+22	unrihtwisan	unrihtwis	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Plur	31	nsubj	_	_
+23	&	and	CCONJ	CONJ	_	25	cc	_	_
+24	þa	se	DET	D^N	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
+25	ungeleaffullan	ungeleaful	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Plur	22	conj	_	_
+26	mid	mid	ADP	P	_	28	case	_	_
+27	$ablendum	ablendan	VERB	VAG^D	Aspect=Imp|Case=Dat|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part	28	amod	_	_
+28	modum	mod	NOUN	N^D	Case=Dat|Gender=Neut|Number=Plur	25	nmod	_	_
+29	ne	ne	PART	NEG	Polarity=Neg	31	advmod:neg	_	_
+30	mihton	magan	AUX	MDDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	31	aux	_	_
+31	geseon	seon	VERB	VB	VerbForm=Inf	0	root	_	_
+32	þæs	se	DET	D^G	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	Hælendes	hælend	NOUN	N^G	Case=Gen|Gender=Masc|Number=Sing	34	nmod:poss	_	_
+34	leoht	leoht	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	31	obj	_	_
+35	þe	þe	SCONJ	C	PronType=Rel	36	mark	_	_
+36	onliht	onlihtan	VERB	RP+VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	34	acl:relcl	_	_
+37	þas	þeos	DET	D^A	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	38	det	_	_
+38	$woruld	weorold	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	36	obj	_	_
+39	.	.	PUNCT	.	_	31	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:299.158_ID
+# text = Sum mann wæs asend fram Gode sylfum to us , & his nama wæs witodlice Iohannes .
+1	Sum	sum	DET	Q^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+2	mann	mann	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	_
+3	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux:pass	_	_
+4	asend	asendan	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+5	fram	fram	ADP	P	_	6	case	_	_
+6	Gode	God	PROPN	NR^D	Case=Dat|Gender=Masc|Number=Sing	4	obl:agent	_	_
+7	sylfum	self	ADJ	ADJ^D	Case=Dat|Emphatic=Yes|Gender=Masc|Number=Sing	6	amod	_	_
+8	to	to	ADP	P	_	9	case	_	_
+9	us	we	PRON	PRO	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	obl	_	_
+10	,	,	PUNCT	.	_	4	punct	_	_
+11	&	and	CCONJ	CONJ	_	16	cc	_	_
+12	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	13	det:poss	_	_
+13	nama	nama	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+14	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	16	cop	_	_
+15	witodlice	witodlice	ADV	ADV	_	16	advmod	_	_
+16	Iohannes	Iohannes	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+17	.	.	PUNCT	.	_	16	punct	_	_
+
+# newdoc
+# newpar
+# sent_id = coaelhom,ÆHom_1:299.158_ID-bis
+# text = He wæs fram Gode asend þæt he secgan mihte soðe gecyðnysse , swa $swa $her $æfter segð on þisum godspelle :
+1	He	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	_
+2	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	aux:pass	_	_
+3	fram	fram	ADP	P	_	4	case	_	_
+4	Gode	God	PROPN	NR^D	Case=Dat|Gender=Masc|Number=Sing	5	obl:agent	_	_
+5	asend	asendan	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+6	þæt	þæt	SCONJ	C	_	8	mark	_	_
+7	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	secgan	secgan	VERB	VB	VerbForm=Inf	5	advcl	_	_
+9	mihte	magan	AUX	MDD	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	_
+10	soðe	soþ	ADJ	ADJ^A	Case=Acc|Gender=Fem|Number=Sing	11	amod	_	_
+11	gecyðnysse	gecyþness	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+12	,	,	PUNCT	,	_	17	punct	_	_
+13	swa	swa	ADV	ADV	_	14	fixed	_	_
+14	$swa	swa	SCONJ	P	_	17	mark	_	_
+15	$her	her	ADV	ADV^L	AdvType=Loc	17	advmod:lmod	_	_
+16	$æfter	æfter	ADP	P	_	15	fixed	_	_
+17	segð	secgan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl	_	_
+18	on	on	ADP	P	_	20	case	_	_
+19	þisum	þis	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	20	det	_	_
+20	godspelle	godspell	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	17	obl	_	_
+21	:	:	PUNCT	.	_	17	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:301.161_ID
+# text = ðes com on gecyðnysse þæt he cydde be ðam leohte soðe gecyðnysse , þæt ealle gelyfdon þurh hine .
+1	ðes	þes	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
+2	com	cuman	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	on	on	ADP	P	_	4	case	_	_
+4	gecyðnysse	gecyþness	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	_
+5	þæt	þæt	SCONJ	C	_	7	mark	_	_
+6	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	cydde	cyþan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	advcl	_	_
+8	be	be	ADP	P	_	10	case	_	_
+9	ðam	þæt	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+10	leohte	leoht	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	7	obl	_	_
+11	soðe	soþ	ADJ	ADJ^A	Case=Acc|Gender=Fem|Number=Sing	12	amod	_	_
+12	gecyðnysse	gecyþness	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
+13	,	,	PUNCT	,	_	16	punct	_	_
+14	þæt	þæt	SCONJ	C	_	16	mark	_	_
+15	ealle	eall	DET	Q^N	Case=Nom|Number=Plur	16	nsubj	_	_
+16	gelyfdon	lifian	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	acl	_	_
+17	þurh	þurh	ADP	P	_	18	case	_	_
+18	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obl	_	_
+19	.	.	PUNCT	.	_	16	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:306.162_ID
+# text = Swa swa $se $dægsteorra $on $dægered up gæð ætforan þære sunnan , swa scean Iohannes $ætforan $Cristes $tocyme ,
+1	Swa	swa	ADV	ADV	_	2	fixed	_	_
+2	swa	swa	SCONJ	P	_	8	mark	_	_
+3	$se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	$dægsteorra	dægsteorra	NOUN	N^N	Case=Nom|Compound=Yes|Gender=Masc|Number=Sing	8	nsubj	_	_
+5	$on	on	ADP	P	_	6	case	_	_
+6	$dægered	dægred	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
+7	up	up	ADV	RP	AdvType=Loc	8	advmod:lmod	_	_
+8	gæð	gan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	advcl	_	_
+9	ætforan	ætforan	ADP	P	_	11	case	_	_
+10	þære	seo	DET	D^D	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	sunnan	sunne	NOUN	N^D	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
+12	,	,	PUNCT	,	_	14	punct	_	_
+13	swa	swa	ADV	ADV	_	14	advmod	_	_
+14	scean	scinan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+15	Iohannes	Iohannes	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+16	$ætforan	ætforan	ADP	P	_	18	case	_	_
+17	$Cristes	Crist	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	18	nmod:poss	_	_
+18	$tocyme	tocyme	NOUN	N	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	_
+19	,	,	PUNCT	.	_	14	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:306.163_ID
+# text = & he hine fullode , & wæs eac his bydel to $þære $halgan $bodunge .
+1	&	and	CCONJ	CONJ	_	4	cc	_	_
+2	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+4	fullode	fyllan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	,	,	PUNCT	.	_	10	punct	_	_
+6	&	and	CCONJ	CONJ	_	10	cc	_	_
+7	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	cop	_	_
+8	eac	eac	ADV	ADV	_	10	advmod	_	_
+9	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	10	det:poss	_	_
+10	bydel	bydel	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
+11	to	to	ADP	P	_	14	case	_	_
+12	$þære	seo	DET	D^D	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
+13	$halgan	halig	ADJ	ADJ^D	Case=Dat|Gender=Fem|Number=Sing	14	amod	_	_
+14	$bodunge	bodung	NOUN	N^D	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	_
+15	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:310.165_ID
+# text = Næs he na him sylf leoht , ac þæt he cydde gecyðnysse be þam leohte .
+1	Næs	nesan	AUX	NEG+BEDI	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	cop	_	_
+2	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+3	na	na	ADV	NEGÆDV	Polarity=Neg	6	advmod:neg	_	_
+4	him	he	PRON	PRO^D	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	appos	_	_
+5	sylf	self	ADJ	ADJ^N	Case=Nom|Emphatic=Yes|Gender=Masc|Number=Sing	4	amod	_	_
+6	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+7	,	,	PUNCT	.	_	11	punct	_	_
+8	ac	ac	CCONJ	CONJ	_	11	cc	_	_
+9	þæt	þæt	SCONJ	C	_	11	mark	_	_
+10	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+11	cydde	cyþan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	acl	_	_
+12	gecyðnysse	gecyþness	NOUN	N	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+13	be	be	ADP	P	_	15	case	_	_
+14	þam	þæt	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	15	det	_	_
+15	leohte	leoht	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	12	obl	_	_
+16	.	.	PUNCT	.	_	6	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:311.167_ID
+# text = $Se $hælend $sæde $be him on sumere stowe þæt he $leohtfæt $wære $beorhte $lixende $for $þan $þe $he bodode bealdlice be Criste ,
+1	$Se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	$hælend	hælend	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	$sæde	secgan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	$be	be	ADP	P	_	5	case	_	_
+5	him	he	PRON	PRO^D	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+6	on	on	ADP	P	_	8	case	_	_
+7	sumere	sum	DET	Q^D	Case=Dat|Gender=Fem|Number=Sing	8	det	_	_
+8	stowe	stow	NOUN	N^D	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	_
+9	þæt	þæt	SCONJ	C	_	11	mark	_	_
+10	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	$leohtfæt	leohtfæt	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	3	ccomp	_	_
+12	$wære	wesan	AUX	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past	11	cop	_	_
+13	$beorhte	beorhte	ADV	ADV	_	14	advmod	_	_
+14	$lixende	licsan	VERB	VAG^N	Aspect=Imp|Case=Nom|Tense=Pres|VerbForm=Part	11	amod	_	_
+15	$for	for	ADP	P	_	17	fixed	_	_
+16	$þan	þæt	DET	D^I	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	17	fixed	_	_
+17	$þe	þe	SCONJ	C	_	19	mark	_	_
+18	$he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
+19	bodode	bodian	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	advcl	_	_
+20	bealdlice	bealdlice	ADV	ADV	_	19	advmod	_	_
+21	be	be	ADP	P	_	22	case	_	_
+22	Criste	Crist	PROPN	NR^D	Case=Dat|Gender=Masc|Number=Sing	19	obl	_	_
+23	,	,	PUNCT	.	_	19	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:311.168_ID
+# text = & se godspellere segð þæt he nære him sylf leoht for þan þe Cristes leoht þe us ealle onliht onlihte eac Iohannem þæt he leoht wære .
+1	&	and	CCONJ	CONJ	_	4	cc	_	_
+2	se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	godspellere	godspellere	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
+4	segð	secgan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	þæt	þæt	SCONJ	C	_	10	mark	_	_
+6	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+7	nære	nesan	AUX	NEG+BEDS	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Past	10	cop	_	_
+8	him	he	PRON	PRO^D	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	appos	_	_
+9	sylf	self	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Sing	8	amod	_	_
+10	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	4	ccomp	_	_
+11	for	for	ADP	P	_	13	fixed	_	_
+12	þan	þæt	DET	D^I	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	13	fixed	_	_
+13	þe	þe	SCONJ	C	_	20	mark	_	_
+14	Cristes	Crist	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	15	nmod:poss	_	_
+15	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+16	þe	þe	SCONJ	C	PronType=Rel	19	mark	_	_
+17	us	we	PRON	PRO^A	Case=Acc|Number=Plur|Person=1|PronType=Prs	19	obj	_	_
+18	ealle	eall	DET	Q^A	Case=Acc|Number=Plur	17	det	_	_
+19	onliht	onlihtan	VERB	RP+VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	acl:relcl	_	_
+20	onlihte	onlihtan	VERB	RP+VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	advcl	_	_
+21	eac	eac	ADV	ADV	_	20	advmod	_	_
+22	Iohannem	Iohannes	PROPN	NR^A	Case=Acc|Gender=Masc|Number=Sing	20	obj	_	_
+23	þæt	þæt	SCONJ	C	_	25	mark	_	_
+24	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	nsubj	_	_
+25	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	20	advcl	_	_
+26	wære	wesan	AUX	BEDS	Mood=Sub|Number=Sing|Person=3|Tense=Past	25	cop	_	_
+27	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:317.169_ID
+# text = Se Hælend sæde eac to his halgum apostolum , Vos estis lux mundi : Ge syndon middaneardes leoht , for þan ðe hi onlihton manncynn to geleafan mid heora halgan lare , swa swa Crist $him $lærde .
+1	Se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Hælend	hælend	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	sæde	secgan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	eac	eac	ADV	ADV	_	3	advmod	_	_
+5	to	to	ADP	P	_	8	case	_	_
+6	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
+7	halgum	halig	ADJ	ADJ^D	Case=Dat|Gender=Masc|Number=Plur	8	amod	_	_
+8	apostolum	apostol	NOUN	N^D	Case=Dat|Gender=Masc|Number=Plur	3	obl	_	_
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	Vos	vos	PRON	FW	Case=Nom|Number=Plur|Person=2|PronType=Prs	12	nsubj	_	_
+11	estis	sum	VERB	FW	Mood=Ind|Number=Plur|Person=2|Tense=Pres	12	cop	_	_
+12	lux	lux	NOUN	FW	Case=Nom|Gender=Fem|Number=Sing	3	ccomp	_	_
+13	mundi	mundus	NOUN	FW	Case=Gen|Gender=Masc|Number=Sing	12	nmod:poss	_	_
+14	:	:	PUNCT	.	_	18	punct	_	_
+15	Ge	ge	PRON	PRO^N	Case=Nom|Number=Plur|Person=2|PronType=Prs	18	nsubj	_	_
+16	syndon	wesan	AUX	BEPI	Mood=Ind|Number=Plur|Person=2|Tense=Pres	18	cop	_	_
+17	middaneardes	middaneard	NOUN	N^G	Case=Gen|Gender=Masc|Number=Sing	18	nmod:poss	_	_
+18	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	12	parataxis	_	_
+19	,	,	PUNCT	,	_	24	punct	_	_
+20	for	for	ADP	P	_	22	fixed	_	_
+21	þan	þæt	DET	D^I	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	22	fixed	_	_
+22	ðe	þe	SCONJ	C	_	24	mark	_	_
+23	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	24	nsubj	_	_
+24	onlihton	onlihtan	VERB	RP+VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	advcl	_	_
+25	manncynn	manncynn	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	24	obj	_	_
+26	to	to	ADP	P	_	27	case	_	_
+27	geleafan	geleafa	NOUN	N	Case=Dat|Gender=Masc|Number=Sing	24	obl	_	_
+28	mid	mid	ADP	P	_	31	case	_	_
+29	heora	hira	DET	PRO$	Number[psor]=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	31	det:poss	_	_
+30	halgan	halig	ADJ	ADJ	Case=Dat|Gender=Fem|Number=Sing	31	amod	_	_
+31	lare	lar	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	24	obl	_	_
+32	,	,	PUNCT	,	_	37	punct	_	_
+33	swa	swa	ADV	ADV	_	34	fixed	_	_
+34	swa	swa	SCONJ	P	_	37	mark	_	_
+35	Crist	Crist	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	37	nsubj	_	_
+36	$him	hie	PRON	PRO^D	Case=Dat|Number=Plur|Person=3|PronType=Prs	37	iobj	_	_
+37	$lærde	læran	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	advcl	_	_
+38	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:321.170_ID
+# text = Paulus cwæð eac to þam geleaffullum : Hwilon ge wæron þeostru , nu ge syndon leoht on Gode ; for þan þe hi ða gelyfdon on þone lyfiendan God .
+1	Paulus	Paulus	PROPN	NR^N	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	cwæð	cweþan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	eac	eac	ADV	ADV	_	2	advmod	_	_
+4	to	to	ADP	P	_	6	case	_	_
+5	þam	se	DET	D^D	Case=Dat|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	geleaffullum	geleaffull	ADJ	ADJ^D	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	_
+7	:	:	PUNCT	,	_	11	punct	_	_
+8	Hwilon	hwilum	ADV	ADV^T	AdvType=Tim	11	advmod:tmod	_	_
+9	ge	ge	PRON	PRO^N	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_
+10	wæron	wesan	AUX	BEDI	Mood=Ind|Number=Plur|Person=2|Tense=Past	11	cop	_	_
+11	þeostru	þeostru	NOUN	N^N	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	_
+12	,	,	PUNCT	,	_	16	punct	_	_
+13	nu	nu	ADV	ADV^T	AdvType=Tim	16	advmod:tmod	_	_
+14	ge	ge	PRON	PRO^N	Case=Nom|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_
+15	syndon	wesan	AUX	BEPI	Mood=Ind|Number=Plur|Person=2|Tense=Pres	16	cop	_	_
+16	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	11	parataxis	_	_
+17	on	on	ADP	P	_	18	case	_	_
+18	Gode	God	PROPN	NR^D	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	_
+19	;	;	PUNCT	,	_	25	punct	_	_
+20	for	for	ADP	P	_	22	fixed	_	_
+21	þan	þæt	DET	D^I	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	22	fixed	_	_
+22	þe	þe	SCONJ	C	_	25	mark	_	_
+23	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_
+24	ða	þa	ADV	ADV^T	AdvType=Tim	25	advmod:tmod	_	_
+25	gelyfdon	lifan	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	advcl	_	_
+26	on	on	ADP	P	_	29	case	_	_
+27	þone	se	DET	D^A	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
+28	lyfiendan	lufian	VERB	VAG^A	Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	29	amod	_	_
+29	God	God	PROPN	NR^A	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	_
+30	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:324.171_ID
+# text = Æc ure eagan syndon gehatene leoht , ac hi naht ne geseoð butan hi sum leoht habbon , oððe þæs dæges leoht , oððe lihtinge on niht .
+1	Æc	æc	CCONJ	CONJ	_	5	cc	_	_
+2	ure	ure	DET	PRO$^N	Case=Nom|Gender=Neut|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	eagan	eage	NOUN	N^N	Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
+4	syndon	wesan	AUX	BEPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux:pass	_	_
+5	gehatene	hatan	VERB	VBN^N	Aspect=Perf|Case=Nom|Tense=Past|VerbForm=Part	0	root	_	_
+6	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	5	xcomp:pred	_	_
+7	,	,	PUNCT	.	_	5	punct	_	_
+8	ac	ac	CCONJ	CONJ	_	12	cc	_	_
+9	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	_
+10	naht	nahwit	DET	NEG+Q^A	Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg	12	obj	_	_
+11	ne	ne	PART	NEG	Polarity=Neg	12	advmod:neg	_	_
+12	geseoð	seon	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	conj	_	_
+13	butan	butan	SCONJ	P	_	17	mark	_	_
+14	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+15	sum	sum	DET	Q^A	Case=Acc|Gender=Neut|Number=Sing	16	det	_	_
+16	leoht	leoht	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+17	habbon	habban	VERB	HVPS	Mood=Sub|Number=Plur|Person=3|Tense=Pres	12	advcl	_	_
+18	,	,	PUNCT	,	_	22	punct	_	_
+19	oððe	oþþe	CCONJ	CONJ	_	22	cc	_	_
+20	þæs	se	DET	D^G	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	dæges	dæg	NOUN	N^G	Case=Gen|Gender=Masc|Number=Sing	22	nmod:poss	_	_
+22	leoht	leoht	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	16	orphan	_	_
+23	,	,	PUNCT	,	_	25	punct	_	_
+24	oððe	oþþe	CCONJ	CONJ	_	25	cc	_	_
+25	lihtinge	lihting	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	22	conj	_	_
+26	on	on	ADP	P	_	27	case	_	_
+27	niht	niht	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	_
+28	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:327.173_ID
+# text = Nu segð se godspellere be þam soðan leohte , ðæt soðe leoht wæs þe onliht ælcne mannan þe on þisne middaneard becymð to men geboren .
+1	Nu	nu	ADV	ADV^T	AdvType=Tim	2	advmod:tmod	_	_
+2	segð	secgan	VERB	1	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	godspellere	godspellere	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	be	be	ADP	P	_	8	case	_	_
+6	þam	þæt	DET	D^D	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	8	det	_	_
+7	soðan	soþ	ADJ	ADJ^D	Case=Dat|Gender=Neut|Number=Sing	8	amod	_	_
+8	leohte	leoht	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	_
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	ðæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
+11	soðe	soþ	ADJ	ADJ^N	Case=Nom|Gender=Neut|Number=Sing	12	amod	_	_
+12	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	2	ccomp	_	_
+13	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	cop	_	_
+14	þe	þe	SCONJ	C	PronType=Rel	15	mark	_	_
+15	onliht	onlihtan	VERB	RP+VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	acl:relcl	_	_
+16	ælcne	ælc	DET	Q^A	Case=Acc|Gender=Masc|Number=Sing	17	det	_	_
+17	mannan	mann	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+18	þe	þe	SCONJ	C	PronType=Rel	25	mark	_	_
+19	on	on	ADP	P	_	21	case	_	_
+20	þisne	þes	DET	D^A	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
+21	middaneard	middaeard	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	25	obl	_	_
+22	becymð	becuman	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	25	aux	_	_
+23	to	to	ADP	P	_	24	case	_	_
+24	men	mann	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	25	obl	_	_
+25	geboren	beran	VERB	VBN^N	Aspect=Perf|Case=Nom|Tense=Past|VerbForm=Part	17	acl:relcl	_	_
+26	.	.	PUNCT	.	_	2	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:330.174_ID
+# text = Đæt soðe leoht is ure leofa Hælend , þe is him sylf leoht & onliht ælcne mann þe his geleafan leoht on his life gehylt , oððe on $godum gecynde oððe on godcundum wisdome , for þan þe ælc wisdom is of Gode sylfum & we nan god nabbað buton of Godes gyfe .
+1	Đæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
+2	soðe	soþ	ADJ	ADJ^N	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	_
+3	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+4	is	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	_
+5	ure	ure	DET	PRO$^N	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1	7	det:poss	_	_
+6	leofa	leof	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Sing	7	amod	_	_
+7	Hælend	hælend	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+8	,	,	PUNCT	,	_	13	punct	_	_
+9	þe	þe	SCONJ	C	PronType=Rel	13	mark	_	_
+10	is	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	cop	_	_
+11	him	he	PRON	PRO^D	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
+12	sylf	_	ADJ	ADJ^N	Case=Nom	11	amod	_	_
+13	leoht	leoht	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	7	acl:relcl	_	_
+14	&	and	CCONJ	CONJ	_	15	cc	_	_
+15	onliht	onlihtan	VERB	RP+VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	13	conj	_	_
+16	ælcne	ælc	DET	Q^A	Case=Acc|Gender=Masc|Number=Sing	17	det	_	_
+17	mann	mann	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	15	obj	_	_
+18	þe	þe	SCONJ	C	PronType=Rel	25	mark	_	_
+19	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	21	det:poss	_	_
+20	geleafan	geleafa	NOUN	N^G	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+21	leoht	leoht	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	25	obj	_	_
+22	on	on	ADP	P	_	24	case	_	_
+23	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	24	det:poss	_	_
+24	life	lif	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	25	obl	_	_
+25	gehylt	healdan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	acl:relcl	_	_
+26	,	,	PUNCT	,	_	30	punct	_	_
+27	oððe	oþþe	CCONJ	CONJ	_	30	cc	_	_
+28	on	on	ADP	P	_	30	case	_	_
+29	$godum	god	ADJ	ADJ^D	Case=Dat|Gender=Neut|Number=Plur	30	amod	_	_
+30	gecynde	gecynd	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	24	conj	_	_
+31	oððe	oþþe	CCONJ	CONJ	_	34	cc	_	_
+32	on	on	ADP	P	_	34	case	_	_
+33	godcundum	godcund	ADJ	ADJ^D	Case=Dat|Gender=Masc|Number=Sing	34	amod	_	_
+34	wisdome	wisdom	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	24	conj	_	_
+35	,	,	PUNCT	,	_	41	punct	_	_
+36	for	for	ADP	P	_	38	fixed	_	_
+37	þan	þæt	DET	D^I	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	38	fixed	_	_
+38	þe	þe	SCONJ	C	_	41	mark	_	_
+39	ælc	ælc	DET	Q^N	Case=Nom|Gender=Masc|Number=Sing	40	det	_	_
+40	wisdom	wisdom	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	41	nsubj	_	_
+41	is	wesan	VERB	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	advcl	_	_
+42	of	of	ADP	P	_	43	case	_	_
+43	Gode	God	PROPN	NR^D	Case=Dat|Gender=Masc|Number=Sing	41	obl	_	_
+44	sylfum	self	ADJ	ADJ^D	Case=Dat|Gender=Masc|Number=Sing	43	amod	_	_
+45	&	and	CCONJ	CONJ	_	49	cc	_	_
+46	we	we	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	49	nsubj	_	_
+47	nan	nan	DET	NEG+Q^A	Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg	48	det	_	_
+48	god	god	NOUN	N^A	Case=Acc|Gender=Neut|Number=Sing	49	obj	_	_
+49	nabbað	nabban	VERB	NEG+HVPI	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres	41	conj	_	_
+50	buton	butan	ADP	P	_	51	fixed	_	_
+51	of	of	ADP	P	_	53	case	_	_
+52	Godes	God	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	53	nmod:poss	_	_
+53	gyfe	gyfu	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	49	obl	_	_
+54	.	.	PUNCT	.	_	7	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:336.175_ID
+# text = On middanearde he wæs , & þes middaneard wæs eall geworht þurh hine , & middaneard ne oncneow hine .
+1	On	on	ADP	P	_	2	case	_	_
+2	middanearde	middaneard	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
+3	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+4	wæs	wesan	VERB	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	,	,	PUNCT	.	_	11	punct	_	_
+6	&	and	CCONJ	CONJ	_	11	cc	_	_
+7	þes	þes	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
+8	middaneard	middaneard	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+9	wæs	wesan	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	11	aux:pass	_	_
+10	eall	eall	DET	Q	_	11	xcomp:pred	_	_
+11	geworht	wyrcan	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	4	conj	_	_
+12	þurh	þurh	ADP	P	_	13	case	_	_
+13	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl:agent	_	_
+14	,	,	PUNCT	.	_	18	punct	_	_
+15	&	and	CCONJ	CONJ	_	18	cc	_	_
+16	middaneard	middaneard	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+17	ne	ne	PART	NEG	Polarity=Neg	18	advmod:neg	_	_
+18	oncneow	oncnawan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	_
+19	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	_
+20	.	.	PUNCT	.	_	4	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:338.178_ID
+# text = He wæs on middanearde þurh his godcundnysse , & he com to middanearde þurh his menniscnysse ,
+1	He	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
+2	wæs	wesan	VERB	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+3	on	on	ADP	P	_	4	case	_	_
+4	middanearde	middaneard	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
+5	þurh	þurh	ADP	P	_	7	case	_	_
+6	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
+7	godcundnysse	godcundness	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	_
+8	,	,	PUNCT	.	_	11	punct	_	_
+9	&	and	CCONJ	CONJ	_	11	cc	_	_
+10	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
+11	com	cuman	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	_
+12	to	to	ADP	P	_	13	case	_	_
+13	middanearde	middaeard	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	_
+14	þurh	þurh	ADP	P	_	16	case	_	_
+15	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	16	det:poss	_	_
+16	menniscnysse	menniscness	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	11	obl	_	_
+17	,	,	PUNCT	.	_	2	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:338.180_ID
+# text = & þes middaneard , þæt syndon þa menn þe lufiað to swiðe þas lænan woruld , noldon oncnawan Cristes tocyme , swa swa se godspellere gyt segð her bæftan :
+1	&	and	CCONJ	CONJ	_	3	cc	_	_
+2	þes	þes	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	middaneard	middaneard	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	,	,	PUNCT	,	_	6	punct	_	_
+5	þæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	6	mark	_	_
+6	syndon	wesan	VERB	BEPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	acl:relcl	_	_
+7	þa	se	DET	D^N	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	menn	mann	NOUN	N^N	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
+9	þe	þe	SCONJ	C	PronType=Rel	10	mark	_	_
+10	lufiað	lufian	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	acl:relcl	_	_
+11	to	to	ADV	ADV	_	12	advmod	_	_
+12	swiðe	swiþe	ADV	ADV	_	10	advmod	_	_
+13	þas	þeos	DET	D^A	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	_
+14	lænan	læna	ADJ	ADJ^A	Case=Acc|Gender=Fem|Number=Sing	15	amod	_	_
+15	woruld	weorold	NOUN	N^A	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+16	,	,	PUNCT	,	_	18	punct	_	_
+17	noldon	nyllan	AUX	NEG+MDDI	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	18	aux	_	_
+18	oncnawan	oncnawan	VERB	VB	VerbForm=Inf	8	orphan	_	_
+19	Cristes	Crist	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	20	nmod:poss	_	_
+20	tocyme	tocyme	NOUN	N	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	_
+21	,	,	PUNCT	,	_	27	punct	_	_
+22	swa	swa	ADV	ADV	_	23	fixed	_	_
+23	swa	swa	SCONJ	P	_	27	mark	_	_
+24	se	se	DET	D^N	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	godspellere	godspellere	NOUN	N^N	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
+26	gyt	git	ADV	ADV^T	AdvType=Tim	27	advmod:tmod	_	_
+27	segð	secgan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	advcl	_	_
+28	her	her	ADV	ADV^L	AdvType=Loc	27	advmod:lmod	_	_
+29	bæftan	bæftan	ADP	P	_	28	case	_	_
+30	:	:	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:338.181_ID
+# text = On his agenum he com , & his agene ne underfengon hine .
+1	On	on	ADP	P	_	3	case	_	_
+2	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
+3	agenum	agen	ADJ	ADJ^D	Case=Dat|Number=Plur	5	obl	_	_
+4	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+5	com	cuman	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+6	,	,	PUNCT	.	_	11	punct	_	_
+7	&	and	CCONJ	CONJ	_	11	cc	_	_
+8	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	9	det:poss	_	_
+9	agene	agen	ADJ	ADJ^N	Case=Nom|Number=Plur	11	nsubj	_	_
+10	ne	ne	PART	NEG	Polarity=Neg	11	advmod:neg	_	_
+11	underfengon	underfon	VERB	RP+VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	conj	_	_
+12	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Plur|Person=3	11	obj	_	_
+13	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:345.183_ID
+# text = Đæt syndon þa ungeleaffullan men ðe his geleafan forsawon .
+1	Đæt	þæt	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+2	syndon	wesan	AUX	BEPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	cop	_	_
+3	þa	se	DET	D^N	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
+4	ungeleaffullan	ungeleafull	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	_
+5	men	mann	NOUN	N^N	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+6	ðe	þe	SCONJ	C	_	9	mark	_	_
+7	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det:poss	_	_
+8	geleafan	geleafa	NOUN	N	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
+9	forsawon	forseon	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	5	acl:relcl	_	_
+10	.	.	PUNCT	.	_	5	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:346.184_ID
+# text = Đis is swa gesæd be sumum mannum her ,
+1	Đis	þis	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
+2	is	wesan	AUX	BEPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux:pass	_	_
+3	swa	swa	ADV	ADV	_	4	advmod	_	_
+4	gesæd	secgan	VERB	VBN	Aspect=Perf|Tense=Past|VerbForm=Part	0	root	_	_
+5	be	be	ADP	P	_	7	case	_	_
+6	sumum	sum	DET	Q^D	Case=Dat|Gender=Masc|Number=Plur	7	det	_	_
+7	mannum	mann	NOUN	N^D	Case=Dat|Gender=Masc|Number=Plur	4	obl	_	_
+8	her	her	ADV	ADV^L	AdvType=Loc	4	advmod:lmod	_	_
+9	,	,	PUNCT	.	_	4	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:346.185_ID
+# text = ac manega gelyfdon of þisum middanearde , ge of Iudeiscum cynne ge of hæðenum þeodum , on þone soðan $Hælend , þeah þe hi sume noldon .
+1	ac	ac	CCONJ	CONJ	_	3	cc	_	_
+2	manega	manig	DET	Q^N	Case=Nom|Number=Plur	3	nsubj	_	_
+3	gelyfdon	lyfan	VERB	VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
+4	of	of	ADP	P	_	6	case	_	_
+5	þisum	þes	DET	D^D	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	middanearde	middaneard	NOUN	N^D	Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	_
+7	,	,	PUNCT	,	_	11	punct	_	_
+8	ge	ge	CCONJ	CONJ	_	11	cc	_	_
+9	of	of	ADP	P	_	11	case	_	_
+10	Iudeiscum	Iudeisc	ADJ	ADJ^D	Case=Dat|Gender=Neut|Number=Sing	11	amod	_	_
+11	cynne	cynn	NOUN	N^D	Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
+12	ge	ge	CCONJ	CONJ	_	15	cc	_	_
+13	of	of	ADP	P	_	15	case	_	_
+14	hæðenum	hæþen	ADJ	ADJ^D	Case=Dat|Gender=Fem|Number=Plur	15	amod	_	_
+15	þeodum	þeod	NOUN	N^D	Case=Dat|Gender=Fem|Number=Plur	11	conj	_	_
+16	,	,	PUNCT	,	_	20	punct	_	_
+17	on	on	ADP	P	_	20	case	_	_
+18	þone	se	DET	D^A	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+19	soðan	soþ	ADJ	ADJ^A	Case=Acc|Gender=Masc|Number=Sing	20	amod	_	_
+20	$Hælend	hælend	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
+21	,	,	PUNCT	,	_	26	punct	_	_
+22	þeah	þeah	SCONJ	P	_	23	fixed	_	_
+23	þe	þe	SCONJ	C	_	26	mark	_	_
+24	hi	hie	PRON	PRO^N	Case=Nom|Number=Plur|Person=3|PronType=Prs	26	nsubj	_	_
+25	sume	sum	DET	Q^N	Case=Nom|Number=Plur	24	det	_	_
+26	noldon	nyllan	AUX	NEG+MDDI	Mood=Ind|Polarity=Neg|Tense=Past	3	advcl	_	_
+27	.	.	PUNCT	.	_	3	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:350.186_ID
+# text = Swa fela swa hine underfengon , eallum hiom he forgeaf anweald Godes bearn to beonne , þam þe on his naman gelyfað .
+1	Swa	swa	ADV	ADV	_	2	det	_	_
+2	fela	fela	DET	Q	Case=Nom|Number=Plur	5	nsubj	_	_
+3	swa	swa	SCONJ	P	_	5	mark	_	_
+4	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+5	underfengon	underfon	VERB	RP+VBDI	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	advcl	_	_
+6	,	,	PUNCT	,	_	8	punct	_	_
+7	eallum	eall	DET	Q^D	Case=Dat|Number=Plur	8	det	_	_
+8	hiom	hie	PRON	PRO^D	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	iobj	_	_
+9	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+10	forgeaf	forgifan	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+11	anweald	anweald	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+12	Godes	God	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	13	nmod:poss	_	_
+13	bearn	bearn	NOUN	N^A	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+14	to	to	ADP	TO	_	15	mark	_	_
+15	beonne	beon	AUX	BE^D	VerbForm=Inf	11	acl	_	_
+16	,	,	PUNCT	,	_	22	punct	_	_
+17	þam	se	DET	D^D	Case=Dat|Number=Plur|PronType=Rel	22	iobj	_	_
+18	þe	þe	SCONJ	C	PronType=Rel	22	mark	_	_
+19	on	on	ADP	P	_	21	case	_	_
+20	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	21	det:poss	_	_
+21	naman	nama	NOUN	N	Case=Dat|Gender=Masc|Number=Sing	22	obl	_	_
+22	gelyfað	lyfan	VERB	VBPI	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	acl:relcl	_	_
+23	.	.	PUNCT	.	_	10	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:352.187_ID
+# text = Her ge magon gehyran þæs Hælendes cystignysse & his micclan godnysse ofer manna bearnum þæt he gyfð us anweald , gif we on hine gelyfað , Godes bearn to beonne , swa swa þis godspell segð & swa swa he sylf sæde to sumum his gecorenum :
+1	Her	her	ADV	ADV^L	AdvType=Loc	4	advmod:lmod	_	_
+2	ge	ge	PRON	PRO^N	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+3	magon	magan	AUX	MDPI	Mood=Ind|Number=Plur|Person=2|Tense=Pres	4	aux	_	_
+4	gehyran	hyran	VERB	VB	VerbForm=Inf	0	root	_	_
+5	þæs	se	DET	D^G	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	Hælendes	hælend	NOUN	N^G	Case=Gen|Gender=Masc|Number=Sing	7	nmod:poss	_	_
+7	cystignysse	cystigness	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	4	obj	_	_
+8	&	and	CCONJ	CONJ	_	11	cc	_	_
+9	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	11	det:poss	_	_
+10	micclan	micel	DET	Q	Case=Dat|Gender=Fem|Number=Sing	11	amod	_	_
+11	godnysse	godness	NOUN	N	Case=Dat|Gender=Fem|Number=Sing	7	conj	_	_
+12	ofer	ofer	ADP	P	_	14	case	_	_
+13	manna	mann	NOUN	N^G	Case=Gen|Gender=Masc|Number=Plur	14	nmod:poss	_	_
+14	bearnum	bearn	NOUN	N^D	Case=Dat|Gender=Neut|Number=Plur	11	obl	_	_
+15	þæt	þæt	SCONJ	C	_	17	mark	_	_
+16	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+17	gyfð	gifan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	advcl	_	_
+18	us	we	PRON	PRO	Case=Dat|Number=Plur|Person=1|PronType=Prs	17	iobj	_	_
+19	anweald	anweald	NOUN	N^A	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	_
+20	,	,	PUNCT	,	_	25	punct	_	_
+21	gif	gif	SCONJ	P	_	25	mark	_	_
+22	we	we	PRON	PRO^N	Case=Nom|Number=Plur|Person=1|PronType=Prs	25	nsubj	_	_
+23	on	on	ADP	P	_	24	case	_	_
+24	hine	he	PRON	PRO^A	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	obl	_	_
+25	gelyfað	lyfan	VERB	VBPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres	17	advcl	_	_
+26	,	,	PUNCT	,	_	28	punct	_	_
+27	Godes	God	PROPN	NR^G	Case=Gen|Gender=Masc|Number=Sing	28	nmod:poss	_	_
+28	bearn	bearn	NOUN	N^A	Case=Nom|Gender=Neut|Number=Plur	25	ccomp	_	_
+29	to	to	ADP	TO	_	30	mark	_	_
+30	beonne	beon	AUX	BE^D	VerbForm=Inf	28	cop	_	_
+31	,	,	PUNCT	,	_	36	punct	_	_
+32	swa	swa	ADV	ADV	_	33	fixed	_	_
+33	swa	swa	SCONJ	P	_	36	mark	_	_
+34	þis	þis	DET	D^N	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	35	det	_	_
+35	godspell	godspell	NOUN	N^N	Case=Nom|Gender=Neut|Number=Sing	36	nsubj	_	_
+36	segð	secgan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	advcl	_	_
+37	&	and	CCONJ	CONJ	_	42	cc	_	_
+38	swa	swa	ADV	ADV	_	39	fixed	_	_
+39	swa	swa	SCONJ	P	_	42	mark	_	_
+40	he	he	PRON	PRO^N	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	42	nsubj	_	_
+41	sylf	self	ADJ	ADJ^N	Case=Nom|Gender=Masc|Number=Sing	40	amod	_	_
+42	sæde	secgan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past	36	conj	_	_
+43	to	to	ADP	P	_	46	case	_	_
+44	sumum	sum	DET	Q^D	Case=Dat|Number=Plur	46	det	_	_
+45	his	his	DET	PRO$	Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	46	det:poss	_	_
+46	gecorenum	ceosan	VERB	VBN^D	Aspect=Perf|Case=Dat|Number=Plur|Tense=Past|VerbForm=Part	42	obl	_	_
+47	:	:	PUNCT	.	_	4	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:352.188_ID
+# text = Ego dixi dii estis , et filii Excelsi omnes :
+1	Ego	ego	PRON	FW	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	dixi	dico	VERB	FW	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+3	dii	deus	NOUN	FW	Case=Nom|Gender=Masc|Number=Plur	2	ccomp	_	_
+4	estis	sum	VERB	FW	Mood=Ind|Number=Plur|Person=2|Tense=Pres	3	cop	_	_
+5	,	,	PUNCT	,	_	7	punct	_	_
+6	et	et	CCONJ	FW	_	7	cc	_	_
+7	filii	filius	NOUN	FW	Case=Nom|Gender=Masc|Number=Plur	3	conj	_	_
+8	Excelsi	Excelsus	NOUN	FW	Case=Gen|Gender=Masc|Number=Sing	7	nmod:poss	_	_
+9	omnes	omnes	NOUN	FW	Case=Nom|Number=Plur	7	nsubj	_	_
+10	:	:	PUNCT	.	_	2	punct	_	_
+
+# sent_id = coaelhom,ÆHom_1:352.189_ID
+# text = Ic sæde to soðan , ge sylfe syndon godas , & suna þæs Hextan þe heofonas gewylt .
+1	Ic	ic	PRON	PRO^N	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	sæde	secgan	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+3	to	to	ADP	P	_	4	case	_	_
+4	soðan	soþ	ADJ	ADJ^D	Case=Dat|Number=Sing	2	obl	_	_
+5	,	,	PUNCT	,	_	9	punct	_	_
+6	ge	ge	PRON	PRO^N	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_
+7	sylfe	self	ADJ	ADJ^N	Case=Nom|Emphatic=Yes|Number=Plur	6	amod	_	_
+8	syndon	wesan	AUX	BEPI	Mood=Ind|Number=Plur|Person=2|Tense=Pres	9	cop	_	_
+9	godas	God	NOUN	N^N	Case=Nom|Gender=Masc|Number=Plur	2	ccomp	_	_
+10	,	,	PUNCT	,	_	12	punct	_	_
+11	&	and	CCONJ	CONJ	_	12	cc	_	_
+12	suna	sunu	NOUN	N^N	Case=Nom|Gender=Masc|Number=Plur	9	conj	_	_
+13	þæs	se	DET	D^G	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	Hextan	heah	ADJ	ADJS^G	Case=Gen|Degree=Sup|Gender=Masc|Number=Sing	12	nmod:poss	_	_
+15	þe	þe	SCONJ	C	PronType=Rel	17	mark	_	_
+16	heofonas	heofon	NOUN	N^A	Case=Acc|Gender=Masc|Number=Plur	17	obj	_	_
+17	gewylt	wealdan	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	acl:relcl	_	_
+18	.	.	PUNCT	.	_	2	punct	_	_
+
