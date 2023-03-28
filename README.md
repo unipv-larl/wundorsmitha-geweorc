@@ -19,7 +19,7 @@ In the same way, this repository aims to be a toolkit not to get mired in the ma
 ## Content of the repo
 
  * [Paper projects](paper_projects)
- 	 * [Using modern languages to parse ancient ones](papers_projects/parsing_oe_modern)
+ 	 * [Using modern languages to parse ancient ones](paper_projects/parsing_oe_modern)
  * [Tools and models](tools_and_models)
 
 ## People
