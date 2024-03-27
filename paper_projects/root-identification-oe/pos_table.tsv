@@ -1,0 +1,181 @@
+xpos	upos	feats
+BE	AUX	VerbForm=Inf
+BEI	AUX	Mood=Imp|Tense=Pres
+BEPH	AUX	Mood=Imp,Sub
+BEPI	AUX	Mood=Ind|Tense=Pres
+BEPS	AUX	Mood=Sub|Tense=Pres
+BEP	AUX	Mood=Ind,Sub|Tense=Pres
+BEDI	AUX	Mood=Ind|Tense=Past
+BEDS	AUX	Mood=Sub|Tense=Past
+BED	AUX	Mood=Ind,Sub|Tense=Past
+BAG	AUX	Aspect=Imp|VerbForm=Part
+BEN	AUX	Aspect=Perf|VerbForm=Part|Tense=Past
+BE^D	VERB	VerbForm=Inf
+HV	VERB	VerbForm=Inf
+HVI	VERB 	Mood=Imp|Tense=Pres
+HVPI	VERB	Mood=Ind|Tense=Pres
+HVPS	VERB	Mood=Sub|Tense=Pres
+HVP	VERB	Mood=ImpSub|Tense=Pres
+HVDI	VERB	Mood=Ind|Tense=Past
+HVDS	VERB	Mood=Sub|Tense=Past
+HVD	VERB	Mood=Ind,Sub|Tense=Past
+HAG	VERB	Aspect=Imp|VerbForm=Part|Tense=Pres
+HVN	VERB	Aspect=Perf|VerbForm=Part|Tense=Past
+HV^D	VERB	VerbForm=Inf
+VB	VERB	VerbForm=Inf
+VBI	VERB	Mood=Imp|Tense=Pres
+VBPH	VERB	Mood=Imp, Sub
+VBPI	VERB	Mood=Ind|Tense=Pres
+VBPS	VERB	Mood=Sub|Tense=Pres
+VBP	VERB	Mood=Ind, Sub|Tense=Pres
+VBDI	VERB	Mood=Ind|Tense=Past
+VBDS	VERB	Mood=Sub|Tense=Past
+VBD	VERB	Mood=Ind,Sub|Tense=Past
+VB^D	VERB	VerbForm=Inf
+VAG	VERB	Aspect=Imp|VerbForm=Part|Tense=Pres
+VAG^N	VERB	VerbForm=Part|Tense=Pres|Case=Nom
+VAG^A	VERB	VerbForm=Part|Tense=Pres|Case=Acc
+VAG^G	VERB	VerbForm=Part|Tense=Pres|Case=Gen
+VAG^D	VERB	VerbForm=Part|Tense=Pres|Case=Dat
+VBN	VERB	VerbForm=Part|Tense=Past
+VBN^N	VERB	VerbForm=Part|Tense=Past|Case=Nom
+VBN^A	VERB	VerbForm=Part|Tense=Past|Case=Acc
+VBN^G	VERB	VerbForm=Part|Tense=Past|Case=Gen
+VBN^D	VERB	VerbForm=Part|Tense=Past|Case=Dat
+AX	VERB	VerbForm=Inf
+AXI	VERB	Mood=Imp|Tense=Pres
+AXPI	VERB	Mood=Ind|Tense=Pres
+AXPS	VERB	Mood=Sub|Tense=Pres
+AXP	VERB	Mood=Ind,Sub|Tense=Pres
+AXDI	VERB	Mood=Ind|Tense=Past
+AXDS	VERB	Mood=Sub|Tense=Past
+AXD	VERB	Mood=Ind, Sub|Tense=Past
+AXG	VERB	Aspect=Imp|VerbForm=Part|Tense=Pres
+AXN	VERB	Aspect=Perf|VerbForm=Part|Tense=Past
+MD	VERB	VerbForm=Inf
+MDI	VERB	Mood=Imp|Tense=Pres 
+MDPI	VERB	Mood=Ind|Tense=Pres
+MDPS	VERB	Mood=Sub|Tense=Pres
+MDP	VERB	Mood=Ind,Sub|Tense=Pres
+MDDI	VERB	Mood=Ind|Tense=Past
+MDDS	VERB	Mood=Sub|Tense=Past
+MDD	VERB	Mood=Ind,Sub|Tense=Past
+TO	ADP	_
+N	NOUN	_
+N^N	NOUN	Case=Nom
+N^A	NOUN	Case=Acc
+N^G	NOUN	Case=Gen
+N^D	NOUN	Case=Dat
+NR	PROPN	_
+NR^N	PROPN	Case=Nom
+NR^A	PROPN	Case=Acc
+NR^G	PROPN	Case=Gen
+NR^D	PROPN	Case=Dat
+NPR^N	PROPN	Case=Nom
+NPR^A	PROPN	Case=Acc
+NPR^G	PROPN	Case=Gen
+NPR^D	PROPN	Case=Dat
+MAN	PRON	Number=Sing|PronType=Ind
+MAN^N	PRON	PronType=Ind|Case=Nom|Number=Sing
+PRO	PRON	PronType=Prs
+PRO^N	PRON	PronType=Prs|Case=Nom
+PRO^A	PRON	PronType=Prs|Case=Acc
+PRO^G	PRON	PronType=Prs|Case=Gen
+PRO^D	PRON	PronType=Prs|Case=Dat
+PRO$	DET	PronType=Prs|Poss=Yes
+PRO$	PRON	PronType=Prs
+PRO$^N	PRON	PronType=Prs|Case=Nom|Poss=Yes
+PRO$^A	PRON	PronType=Prs|Case=Acc|Poss=Yes
+PRO$^G	PRON	PronType=Prs|Case=Gen|Poss=Yes
+PRO$^D	PRON	PronType=Prs|Case=Dat|Poss=Yes
+PRO$^I	PRON	PronType=Prs|Case=Ins|Poss=Yes
+ADJ	ADJ	Degree=Pos
+ADJ^N	ADJ	Degree=Pos|Case=Nom
+ADJ^A	ADJ	Degree=Pos|Case=Acc
+ADJ^G	ADJ	Degree=Pos|Case=Gen
+ADJ^D	ADJ	Degree=Pos|Case=Dat
+ADJ^I	ADJ	Degree=Pos|Case=Ins
+ADJR	ADJ	Degree=Cmp
+ADJR^N	ADJ	Degree=Cmp|Case=Nom
+ADJR^A	ADJ	Degree=Cmp|Case=Acc
+ADJR^G	ADJ	Degree=Cmp|Case=Gen
+ADJR^D	ADJ	Degree=Cmp|Case=Dat
+ADJR^I	ADJ	Degree=Cmp|Case=Ins
+ADJS	ADJ	Degree=Sup
+ADJS^N	ADJ	Degree=Sup|Case=Nom
+ADJS^A	ADJ	Degree=Sup|Case=Acc
+ADJS^G	ADJ	Degree=Sup|Case=Gen
+ADJS^D	ADJ	Degree=Sup|Case=Dat
+ADJS^I	ADJ	Degree=Sup|Case=Ins
+ADV	ADV	
+ADV^T	ADV	AdvType=Tim
+ADV^L	ADV	AdvType=Loc
+ADV^D	ADV	AdvType=Loc
+ADVR	ADV	Degree=Cmp
+ADVS	ADV	Degree=Sup
+ADV21	ADV	
+ADV22	ADV	
+ADVR^T	ADV	Degree=Cmp|AdvType=Tim
+ADVR^L	ADV	Degree=Cmp|AdvType=Loc
+ADVS^T	ADV	Degree=Sup|AdvType=Tim
+ADVS^L	ADV	Degree=Sup|AdvType=Loc
+Q	DET	
+Q^N	DET	Degree=Pos|Case=Nom
+Q^A	DET	Degree=Pos|Case=Acc
+Q^G	DET	Degree=Pos|Case=Gen
+Q^D	DET	Degree=Pos|Case=Dat
+Q^I	DET	Degree=Pos|Case=Ins
+QR	DET	Degree=Cmp
+QR^N	DET	Degree=Cmp|Case=Nom
+QR^A	DET	Degree=Cmp|Case=Acc
+QR^G	DET	Degree=Cmp|Case=Gen
+QR^D	DET	Degree=Cmp|Case=Dat
+QR^I	DET	Degree=Cmp|Case=Ins
+QS	DET	Degree=Sup
+QS^N	DET	Degree=Sup|Case=Nom
+QS^A	DET	Degree=Sup|Case=Acc
+QS^G	DET	Degree=Sup|Case=Gen
+QS^D	DET	Degree=Sup|Case=Dat
+QS^I	DET	Degree=Sup|Case=Ins
+NUM	NUM	NumType=Card
+NUM^N	NUM	NumType=Card|Case=Nom
+NUM^A	NUM	NumType=Card|Case=Acc
+NUM^G	NUM	NumType=Card|Case=Gen
+NUM^D	NUM	NumType=Card|Case=Dat
+NUM^I	NUM	NumType=Card|Case=Ins
+WPRO	PRON	PronType=Int
+WPRO^N	PRON	PronType=Int|Case=Nom
+WPRO^A	PRON	PronType=Int|Case=Acc
+WPRO^G	PRON	PronType=Int|Case=Gen
+WPRO^D	PRON	PronType=Int|Case=Dat
+WPRO^I	PRON	PronType=Int|Case=Ins
+WADJ	DET	PronType=Int
+WADJ^N	ADJ	PronType=Int|Case=Nom
+WADJ^A	ADJ	PronType=Int|Case=Acc
+WADJ^G	ADJ	PronType=Int|Case=Gen
+WADJ^D	ADJ	PronType=Int|Case=Dat
+WADJ^I	ADJ	PronType=Int|Case=Ins
+WADV	ADV	PronType=Int
+WADV^D	ADV	PronType=Int|Case=Dat
+WADV^L	ADV	PronType=Int|Case=Loc
+WQ	DET	
+WADV^T	ADV	PronType=Int|AdvType=Tim
+CONJ	CCONJ	
+C	SCONJ	
+D	DET	
+D^N	DET	Case=Nom
+D^A	DET	Case=Acc
+D^G	DET	Case=Gen
+D^D	DET	Case=Dat
+D^I	DET	Case=Ins
+P	ADP,SCONJ	
+NEG	PART	Polarity=Neg
+NEG+	PART	Polarity=Neg
+RP	ADV	
+RP+	ADV	
+FP	ADV	
+FW	X	Foreign=Yes
+INTJ	INTJ	
+XX	X	
+.	PUNCT	
+,	PUNCT	

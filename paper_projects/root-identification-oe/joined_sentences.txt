@@ -1,0 +1,74 @@
+coadrian,Ad:2.2.5 + coadrian,Ad:2.2.6 + coadrian,Ad:2.2.7 + coadrian,Ad:2.2.8
+coadrian,Ad:6.2.17 + coadrian,Ad:6.2.18 + coadrian,Ad:6.2.19 + coadrian,Ad:6.2.20
+coadrian,Ad:23.2.55 + coadrian,Ad:23.2.56
+coadrian,Ad:26.2.62 + coadrian,Ad:26.2.63
+coadrian,Ad:38.2.87 + coadrian,Ad:38.2.88 + coadrian,Ad:38.2.89
+coadrian,Ad:45.2.104 + coadrian,Ad:45.2.105
+coadrian,Ad:47.2.109 + coadrian,Ad:47.2.110
+coadrian,Ad:48.2.112 + coadrian,Ad:48.2.113 + coadrian,Ad:48.2.114
+coaelhom,ÆHom_1:1.4 + coaelhom,ÆHom_1:1.5 
+coaelhom,ÆHom_1:23.12 + coaelhom,ÆHom_1:23.13
+coaelhom,ÆHom_1:31.15 + coaelhom,ÆHom_1:31.16
+coaelhom,ÆHom_1:33.17 + coaelhom,ÆHom_1:33.18
+coaelhom,ÆHom_1:35.19 + coaelhom,ÆHom_1:35.20
+coaelhom,ÆHom_1:37.21 + coaelhom,ÆHom_1:37.22
+coaelhom,ÆHom_1:44.27 + coaelhom,ÆHom_1:44.28 + coaelhom,ÆHom_1:44.29
+coaelhom,ÆHom_1:46.30 + coaelhom,ÆHom_1:46.31
+coaelhom,ÆHom_1:51.33 + coaelhom,ÆHom_1:51.34
+coaelhom,ÆHom_1:79.54 + coaelhom,ÆHom_1:79.55
+coaelhom,ÆHom_1:98.63 + coaelhom,ÆHom_1:98.64 + coaelhom,ÆHom_1:98.65
+coaelhom,ÆHom_1:107.67 + coaelhom,ÆHom_1:107.68 
+coaelhom,ÆHom_1:113.70 + coaelhom,ÆHom_1:113.71 + coaelhom,ÆHom_1:113.72
+coaelhom,ÆHom_1:148.84 + coaelhom,ÆHom_1:148.85 + coaelhom,ÆHom_1:148.86
+coaelhom,ÆHom_1:151.88 + coaelhom,ÆHom_1:151.89 + coaelhom,ÆHom_1:151.90
+coaelhom,ÆHom_1:151.91 + coaelhom,ÆHom_1:151.92 + coaelhom,ÆHom_1:151.93
+coaelhom,ÆHom_1:169.100 + coaelhom,ÆHom_1:169.101
+coaelhom,ÆHom_1:177.105 + coaelhom,ÆHom_1:177.106
+coaelhom,ÆHom_1:192.111 + coaelhom,ÆHom_1:192.112 + coaelhom,ÆHom_1:192.113 + coaelhom,ÆHom_1:192.114
+coaelhom,ÆHom_1:225.124 + coaelhom,ÆHom_1:225.125 + coaelhom,ÆHom_1:225.126
+coaelhom,ÆHom_1:228.128 + coaelhom,ÆHom_1:228.129 + coaelhom,ÆHom_1:228.130
+coaelhom,ÆHom_1:277.142 + coaelhom,ÆHom_1:277.143
+coaelhom,ÆHom_1:287.152 + coaelhom,ÆHom_1:287.153 + coaelhom,ÆHom_1:287.154
+coaelhom,ÆHom_1:292.155 + coaelhom,ÆHom_1:292.156
+coaelhom,ÆHom_1:299.158 + coaelhom,ÆHom_1:299.159
+coaelhom,ÆHom_1:306.163 + coaelhom,ÆHom_1:306.164
+coaelhom,ÆHom_1:310.165 + coaelhom,ÆHom_1:310.166
+coaelhom,ÆHom_1:324.171 + coaelhom,ÆHom_1:324.172
+coaelhom,ÆHom_1:336.175 + coaelhom,ÆHom_1:336.176 + coaelhom,ÆHom_1:336.177
+coaelhom,ÆHom_1:338.178 + coaelhom,ÆHom_1:338.179
+coaelhom,ÆHom_1:338.181 + coaelhom,ÆHom_1:338.182
+coaelhom,ÆHom_1:370.193 + coaelhom,ÆHom_1:370.194
+coaelhom,ÆHom_1:386.201 + coaelhom,ÆHom_1:386.202
+coaelhom,ÆHom_1:403.208 + coaelhom,ÆHom_1:403.209
+coaelhom,ÆHom_1:404.210 + coaelhom,ÆHom_1:404.211 + coaelhom,ÆHom_1:404.212
+coaelhom,ÆHom_1:420.217 + coaelhom,ÆHom_1:420.218 + coaelhom,ÆHom_1:420.219
+coaelhom,ÆHom_1:434.222 + coaelhom,ÆHom_1:434.223
+coaelhom,ÆHom_1:437.224 + coaelhom,ÆHom_1:437.225 + coaelhom,ÆHom_1:437.226
+coaelhom,ÆHom_1:451.233 + coaelhom,ÆHom_1:451.234
+cobede,Bede_1:0.26.2.181 + cobede,Bede_1:0.26.2.182 + cobede,Bede_1:0.26.2.183
+cobede,Bede_1:0.26.7.185 + cobede,Bede_1:0.26.7.186 + cobede,Bede_1:0.26.7.187
+cobede,Bede_1:0.26.9.188 + cobede,Bede_1:0.26.9.189
+cobede,Bede_1:0.26.12.190 + cobede,Bede_1:0.26.12.191
+cobede,Bede_1:0.26.15.193 + cobede,Bede_1:0.26.15.194 + cobede,Bede_1:0.26.15.195
+cobede,Bede_1:1.28.17.209 + cobede,Bede_1:1.28.17.210
+cobede,Bede_1:1.28.19.212 + cobede,Bede_1:1.28.19.213
+cobede,Bede_1:1.28.32.219 + cobede,Bede_1:1.28.32.220
+cobede,Bede_1:1.28.34.221 + cobede,Bede_1:1.28.34.222
+cobede,Bede_1:1.30.4.226 + cobede,Bede_1:1.30.4.227 + cobede,Bede_1:1.30.4.228
+cobede,Bede_1:1.30.8.229 + cobede,Bede_1:1.30.8.230
+cobede,Bede_1:3.30.16.235 + cobede,Bede_1:3.30.16.236
+cobede,Bede_1:3.30.25.242 + cobede,Bede_1:3.30.25.243
+cobede,Bede_1:3.30.28.246 + cobede,Bede_1:3.30.28.247
+cobede,Bede_1:4.32.5.250 + cobede,Bede_1:4.32.5.251
+cobede,Bede_1:4.32.8.253 + cobede,Bede_1:4.32.8.254
+cobede,Bede_1:5.32.16.257 + cobede,Bede_1:5.32.16.258 + cobede,Bede_1:5.32.16.259
+cobede,Bede_1:5.32.19.260 + cobede,Bede_1:5.32.19.261
+cobede,Bede_1:6.32.23.263 + cobede,Bede_1:6.32.23.264
+cobede,Bede_1:6.32.25.265 + cobede,Bede_1:6.32.25.266
+cobede,Bede_1:6.32.26.267 + cobede,Bede_1:6.32.26.268
+cobede,Bede_1:7.34.8.272 + cobede,Bede_1:7.34.8.273
+cobede,Bede_1:7.34.18.277 + cobede,Bede_1:7.34.18.278
+cobede,Bede_1:7.34.25.281 + cobede,Bede_1:7.34.25.282
+cobede,Bede_1:7.36.10.290 + cobede,Bede_1:7.36.10.291
+cobede,Bede_1:7.36.16.295 + cobede,Bede_1:7.36.16.296
+cobede,Bede_1:7.36.19.298 + cobede,Bede_1:7.36.19.299 + cobede,Bede_1:7.36.19.300
