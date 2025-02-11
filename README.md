@@ -25,9 +25,9 @@ In the same way, this repository aims to be a toolkit not to get mired in the ma
 ## People
 
 ### Luca Brigada Villa
-University of Bergamo/Pavia
+University of Pavia
 
-[luca.brigadavilla@unibg.it](mailto:luca.brigadavilla@unibg.it)
+[luca.brigadavilla@unipv.it](mailto:luca.brigadavilla@unipv.it)
 
 #### Contribution to this repository
 Code, tools and models
