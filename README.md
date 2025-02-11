@@ -20,6 +20,7 @@ In the same way, this repository aims to be a toolkit not to get mired in the ma
 
  * [Paper projects](paper_projects)
  	 * [Using modern languages to parse ancient ones](paper_projects/parsing_oe_modern)
+   * [From YCOE to UD: rule-based root identification in Old English](paper_projects/root-identification-oe)
  * [Tools and models](tools_and_models)
 
 ## People
